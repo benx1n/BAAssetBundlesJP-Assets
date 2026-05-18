@@ -1,0 +1,14 @@
+﻿_reports/
+*.log
+*.tmp
+*.temp
+*.zip
+*.bundle
+*.unity3d
+*.assets
+*.resource
+*.apk
+*.apks
+*.obb
+.DS_Store
+Thumbs.db

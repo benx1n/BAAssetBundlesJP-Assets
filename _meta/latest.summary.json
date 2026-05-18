@@ -1,0 +1,55 @@
+﻿{
+    "schemaVersion":  2,
+    "runId":  "full-20260518-191816",
+    "createdUtc":  "2026-05-18T11:59:27.9088201Z",
+    "region":  "japan",
+    "platform":  "android",
+    "assetKind":  "AssetBundles",
+    "versioning":  {
+                       "strategy":  "git-commit",
+                       "note":  "Use the containing repository commit as the asset version."
+                   },
+    "source":  {
+                   "downloadRoot":  "E:/Projects/BAAssetBundlesJP/downloads/jp/android/full-20260518-191816",
+                   "zipCount":  187,
+                   "zipTotalBytes":  8101574453,
+                   "fullPatchZipCount":  147,
+                   "updatePatchZipCount":  40,
+                   "firstFullPatch":  0,
+                   "lastFullPatch":  143
+               },
+    "extraction":  {
+                       "classes":  [
+                                       "images",
+                                       "texts"
+                                   ],
+                       "pathMode":  "classified",
+                       "rawFallbackMode":  "never",
+                       "reportPath":  "_reports/full-20260518-191816.assetbundle-extract-report.json",
+                       "counts":  {
+                                      "exported":  29841,
+                                      "skipped":  2174,
+                                      "failed":  9,
+                                      "rawFallback":  0
+                                  }
+                   },
+    "output":  {
+                   "root":  "E:/Projects/BAAssetBundlesJP-Assets",
+                   "resourceFileCount":  29841,
+                   "resourceTotalBytes":  7647516015,
+                   "byExtension":  {
+                                       ".png":  29841
+                                   },
+                   "largeFiles":  [
+
+                                  ]
+               },
+    "tools":  {
+                  "baad":  {
+                               "path":  "baad.exe",
+                               "version":  "baad 3.0.0"
+                           },
+                  "python":  "C:\\Users\\Administrator\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+                  "unitypyExtractor":  "scripts/extract_unity_media.py"
+              }
+}
