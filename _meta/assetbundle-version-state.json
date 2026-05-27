@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedUtc": "2026-05-25T23:09:52Z",
+  "updatedUtc": "2026-05-27T20:00:48Z",
   "region": "japan",
   "platform": "android",
-  "runId": "gha-26422074772-1",
+  "runId": "gha-26533363076-1",
   "client": {
-    "version": "1.68.421271",
+    "version": "1.69.428359",
     "sourceUrl": "https://baah.hitfun.top/apk/jp",
-    "finalUrl": "https://d-e02.winudf.com/b/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQyMTI3MV8zYzdiOWU1ZA?_fn=44OW44Or44O844Ki44O844Kr44Kk44OWXzEuNjguNDIxMjcxX0FQS1B1cmUueGFwaw&_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&is_hot=true&k=9c695da9b19fc30f6d15e4540e4ace4a6a16283f&source=web&uu=https%3A%2F%2Fd-15.winudf.com%2Fb%2FXAPK%2FY29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQyMTI3MV8zYzdiOWU1ZA%3Fk%3D02e604437ad638c9ff4215df270f5e876a16283f",
-    "filename": "ブルーアーカイブ_1.68.421271_APKPure.xapk",
-    "contentLength": 266597032
+    "finalUrl": "https://d-e02.winudf.com/b/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQyODM1OV9lMjMwN2Ji?_fn=44OW44Or44O844Ki44O844Kr44Kk44OWXzEuNjkuNDI4MzU5X0FQS1B1cmUueGFwaw&_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&is_hot=true&k=c68f94087ef54872cb181d1e8d5e03596a189eef&source=web&uu=https%3A%2F%2Fd-11.winudf.com%2Fb%2FXAPK%2FY29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQyODM1OV9lMjMwN2Ji%3Fk%3Dd227efcaa3d33039d7135319bfd4cd806a189eef",
+    "filename": "ブルーアーカイブ_1.69.428359_APKPure.xapk",
+    "contentLength": 275940176
   },
   "catalog": {
-    "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r91_68_5xe1aezaaeopuhmel2oi.json",
-    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r91_ug54hkkheqzqsvax537o",
-    "catalogVersion": "r91_ug54hkkheqzqsvax537o",
+    "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r92_69_n6bbzfm9l4uam95cnbhu.json",
+    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r92_3wwjwu14k5xbuc8ahzhm",
+    "catalogVersion": "r92_3wwjwu14k5xbuc8ahzhm",
     "bundleVersion": "s8tloc7lo3",
     "connectionGroup": "Prod-Audit",
-    "overrideConnectionGroup": "1.68"
+    "overrideConnectionGroup": "1.69"
   },
-  "assetRepoCommit": "b7e2ca27adfa83f20980c60cbfe4e023a1ecffb0"
+  "assetRepoCommit": "5710fc2bc7bd97e5827fcb6cda1f1b6ea8a17bd0"
 }
