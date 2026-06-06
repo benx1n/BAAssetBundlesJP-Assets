@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedUtc": "2026-06-05T19:23:05Z",
+  "updatedUtc": "2026-06-06T20:05:43Z",
   "region": "japan",
   "platform": "android",
-  "runId": "gha-27035039850-1",
+  "runId": "gha-27072341818-1",
   "client": {
-    "version": "1.69.428359",
-    "sourceUrl": "https://baah.hitfun.top/apk/jp",
-    "finalUrl": "https://d-e03.winudf.com/b/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQyODM1OV9lMjMwN2Ji?_fn=44OW44Or44O844Ki44O844Kr44Kk44OWXzEuNjkuNDI4MzU5X0FQS1B1cmUueGFwaw&_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&full_size=275940176&is_hot=true&k=b837d7a1d6f0c6be7f92c1ce0aed9c756a247397&source=web&uu=https%3A%2F%2Fd-11.winudf.com%2Fb%2FXAPK%2FY29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQyODM1OV9lMjMwN2Ji%3Fk%3D0fcb4a8036a08bf7606a323dea7ba5746a247397",
-    "filename": "ブルーアーカイブ_1.69.428359_APKPure.xapk",
-    "contentLength": 275940176
+    "version": "1.69.0",
+    "source": "baad-api-data",
+    "sourcePath": "C:\\Users\\runneradmin\\AppData\\Local\\baad\\api_data.json",
+    "platform": "android"
   },
   "catalog": {
     "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r92_69_n6bbzfm9l4uam95cnbhu.json",
@@ -19,5 +18,5 @@
     "connectionGroup": "Prod-Audit",
     "overrideConnectionGroup": "1.69"
   },
-  "assetRepoCommit": "df04f2602af1d7a26c24833cc2ccbac18cfb28c7"
+  "assetRepoCommit": "8d394de563d61f6f19595ce3c964b859af16440f"
 }
