@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedUtc": "2026-07-08T19:47:48Z",
+  "updatedUtc": "2026-07-29T19:46:35Z",
   "region": "japan",
   "platform": "android",
-  "runId": "gha-28967989579-1",
+  "runId": "gha-30481755404-1",
   "client": {
-    "version": "1.70.436321",
+    "version": "1.71.447596",
     "sourceUrl": "https://baah.hitfun.top/apk/jp",
-    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQzNjMyMV85ZTQwZjMyMg?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.70.436321_APKPure.xapk&full_size=259167007&is_hot=true&k=c8e218e5a7f9913bfea12148249b38c96a514c63&package_name=com.YostarJP.BlueArchive&source=web&token=1783540067-ab69377c68-0-fd7200ef5d48b053d3dfbc8f66cb26d3",
-    "filename": "Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQzNjMyMV85ZTQwZjMyMg",
-    "contentLength": 259167007
+    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0NzU5Nl9jOWMwNDg3ZQ?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.71.447596_APKPure.xapk&full_size=261190995&is_hot=true&k=2aa39d207beefece011255b6d081c94a6a6cfb9a&package_name=com.YostarJP.BlueArchive&source=web&token=1785354394-1e9fd2c63a-0-13ffeb58a011670ce353e74543fff8b4",
+    "filename": "Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0NzU5Nl9jOWMwNDg3ZQ",
+    "contentLength": 261190995
   },
   "catalog": {
-    "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r93_70_eaueguci86m4lr0zwa44.json",
-    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r93_tuomvxzek52seobgrg9f",
-    "catalogVersion": "r93_tuomvxzek52seobgrg9f",
+    "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r94_71_jzec7vlo3lviox38ua3z.json",
+    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_vvra7uvpqinle0um1h93",
+    "catalogVersion": "r94_vvra7uvpqinle0um1h93",
     "bundleVersion": "s8tloc7lo3",
     "connectionGroup": "Prod-Audit",
-    "overrideConnectionGroup": "1.70"
+    "overrideConnectionGroup": "1.71"
   },
-  "assetRepoCommit": "d813b1ac6405e86611da100ccc542adebecf64ce"
+  "assetRepoCommit": "a5831922066bd3bb426f5a59476c08cfd3c1b453"
 }
