@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedUtc": "2026-07-30T19:46:20Z",
+  "updatedUtc": "2026-08-04T21:01:31Z",
   "region": "japan",
   "platform": "android",
-  "runId": "gha-30572780958-1",
+  "runId": "gha-30946544988-1",
   "client": {
     "version": "1.71.447596",
     "sourceUrl": "https://baah.hitfun.top/apk/jp",
-    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0NzU5Nl9jOWMwNDg3ZQ?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.71.447596_APKPure.xapk&full_size=261190995&is_hot=true&k=ffbb8ec80b175883266cfd1892b63cbb6a6e4d0b&package_name=com.YostarJP.BlueArchive&source=web&token=1785440779-9f9a76dedf-0-efd49fa6e50eeaf45dd08b1369f78f1b",
+    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0NzU5Nl9jOWMwNDg3ZQ?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.71.447596_APKPure.xapk&full_size=261190995&is_hot=true&k=a39e3aa0fb1ebcfceaea6fd147af10956a74f62a&package_name=com.YostarJP.BlueArchive&source=web&token=1785877290-9bd2fbbed2-0-e445c9e2007a3f31a3f4d27a498a409e",
     "filename": "Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0NzU5Nl9jOWMwNDg3ZQ",
     "contentLength": 261190995
   },
   "catalog": {
     "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r94_71_jzec7vlo3lviox38ua3z.json",
-    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_7q3qkaxvp1enjzan1fm2",
-    "catalogVersion": "r94_7q3qkaxvp1enjzan1fm2",
+    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_ra3i061r6f8zz8hcs46h",
+    "catalogVersion": "r94_ra3i061r6f8zz8hcs46h",
     "bundleVersion": "s8tloc7lo3",
     "connectionGroup": "Prod-Audit",
     "overrideConnectionGroup": "1.71"
   },
-  "assetRepoCommit": "860ac300e3cdc7592bcea829f428892a44c4e853"
+  "assetRepoCommit": "a5d552b2264fff25297a3147adf79f2f98373b26"
 }
