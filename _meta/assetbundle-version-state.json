@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedUtc": "2026-08-04T21:01:31Z",
+  "updatedUtc": "2026-08-10T18:59:10Z",
   "region": "japan",
   "platform": "android",
-  "runId": "gha-30946544988-1",
+  "runId": "gha-31420990459-1",
   "client": {
-    "version": "1.71.447596",
+    "version": "1.71.449178",
     "sourceUrl": "https://baah.hitfun.top/apk/jp",
-    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0NzU5Nl9jOWMwNDg3ZQ?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.71.447596_APKPure.xapk&full_size=261190995&is_hot=true&k=a39e3aa0fb1ebcfceaea6fd147af10956a74f62a&package_name=com.YostarJP.BlueArchive&source=web&token=1785877290-9bd2fbbed2-0-e445c9e2007a3f31a3f4d27a498a409e",
-    "filename": "Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0NzU5Nl9jOWMwNDg3ZQ",
-    "contentLength": 261190995
+    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0OTE3OF8yNDViODhiZQ?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.71.449178_APKPure.xapk&full_size=261231955&is_hot=false&k=c30f3463be3c98e1dca4d994538ac3586a7cc27d&package_name=com.YostarJP.BlueArchive&source=web&token=1786388349-d395c835ab-0-c505c4176c7d14e5e9f14fbfb447fc72",
+    "filename": "Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ0OTE3OF8yNDViODhiZQ",
+    "contentLength": 261231955
   },
   "catalog": {
-    "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r94_71_jzec7vlo3lviox38ua3z.json",
+    "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r94_71_z6ad3v3rftj8kzmd8yms.json",
     "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r94_ra3i061r6f8zz8hcs46h",
     "catalogVersion": "r94_ra3i061r6f8zz8hcs46h",
     "bundleVersion": "s8tloc7lo3",
     "connectionGroup": "Prod-Audit",
     "overrideConnectionGroup": "1.71"
   },
-  "assetRepoCommit": "a5d552b2264fff25297a3147adf79f2f98373b26"
+  "assetRepoCommit": "21b8d3afddc7fb68c7fbfed2723ec2987ebc5e2a"
 }
