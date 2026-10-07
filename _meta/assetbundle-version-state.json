@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedUtc": "2026-09-23T19:36:30Z",
+  "updatedUtc": "2026-10-07T19:45:11Z",
   "region": "japan",
   "platform": "android",
-  "runId": "gha-35904253379-1",
+  "runId": "gha-37669537880-1",
   "client": {
     "version": "1.73.459696",
     "sourceUrl": "https://baah.hitfun.top/apk/jp",
-    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ1OTY5Nl81NzM1ZTQ5Mg?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.73.459696_APKPure.xapk&full_size=230891002&is_hot=true&k=d8e524c92046e0fdccbdfd37b21a67b36ab6cd3d&package_name=com.YostarJP.BlueArchive&source=web&token=1790192189-f4103dea49-0-919bdaadd8c58d338221073aac0623d8",
-    "filename": "Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ1OTY5Nl81NzM1ZTQ5Mg",
-    "contentLength": 230891002
+    "finalUrl": "https://data.winudf.com/XAPK/Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ1OTY5Nl9iMGM5MzUwNw?_p=Y29tLllvc3RhckpQLkJsdWVBcmNoaXZl&filename=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96_1.73.459696_APKPure.xapk&full_size=230577021&is_hot=true&k=fde32d1df123f7c8dc3747aa377e1f1a6ac94446&package_name=com.YostarJP.BlueArchive&source=web&token=1791402310-999c428a6e-0-e43265ce86fd6b7b2a36850cea50bb1e",
+    "filename": "Y29tLllvc3RhckpQLkJsdWVBcmNoaXZlXzQ1OTY5Nl9iMGM5MzUwNw",
+    "contentLength": 230577021
   },
   "catalog": {
     "serverInfoUrl": "https://yostar-serverinfo.bluearchiveyostar.com/r96_73_xxwtdfjcpetwmk8mo77q.json",
-    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r96_3cpn8ebtdjiqi6y9qtn1",
-    "catalogVersion": "r96_3cpn8ebtdjiqi6y9qtn1",
+    "catalogUrl": "https://prod-clientpatch.bluearchiveyostar.com/r96_nvji95owgkbcxlmkb8mi",
+    "catalogVersion": "r96_nvji95owgkbcxlmkb8mi",
     "bundleVersion": "s8tloc7lo3",
     "connectionGroup": "Prod-Audit",
     "overrideConnectionGroup": "1.73"
   },
-  "assetRepoCommit": "aefa6af8e2e9142b9c237b28fb4414e492a03f6c"
+  "assetRepoCommit": "b280ae8621e3b7374c39dde686f4dac5cd098201"
 }

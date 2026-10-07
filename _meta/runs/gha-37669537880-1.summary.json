@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "runId": "gha-37669537880-1",
+  "createdUtc": "2026-10-07T19:45:07.6262318Z",
+  "region": "japan",
+  "platform": "android",
+  "assetKind": "AssetBundles",
+  "versioning": {
+    "strategy": "git-commit",
+    "note": "Use the containing repository commit as the asset version."
+  },
+  "source": {
+    "downloadRoot": "D:/a/BAAssetBundlesJP/BAAssetBundlesJP/downloads/jp/android/cache",
+    "zipCount": 206,
+    "zipTotalBytes": 9082803259,
+    "fullPatchZipCount": 160,
+    "updatePatchZipCount": 46,
+    "firstFullPatch": 0.0,
+    "lastFullPatch": 156.0
+  },
+  "extraction": {
+    "classes": [
+      "images",
+      "texts"
+    ],
+    "pathMode": "classified",
+    "rawFallbackMode": "never",
+    "reportPath": "_reports/gha-37669537880-1.assetbundle-extract-report.json",
+    "counts": {
+      "exported": 33212,
+      "skipped": 2197,
+      "failed": 5,
+      "rawFallback": 0
+    }
+  },
+  "output": {
+    "root": "D:/a/_temp/BAAssetBundlesJP-Assets",
+    "resourceFileCount": 33212,
+    "resourceTotalBytes": 8977006010,
+    "byExtension": {
+      ".png": 33212
+    },
+    "largeFiles": []
+  },
+  "tools": {
+    "baad": {
+      "path": "baad.exe",
+      "version": "baad 3.0.0"
+    },
+    "python": "python",
+    "unitypyExtractor": "scripts/extract_unity_media.py"
+  }
+}
