@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "runId": "gha-37669537880-1",
-  "createdUtc": "2026-10-07T19:45:07.6262318Z",
+  "runId": "gha-39547540020-1",
+  "createdUtc": "2026-10-21T06:01:22.7392251Z",
   "region": "japan",
   "platform": "android",
   "assetKind": "AssetBundles",
@@ -11,12 +11,12 @@
   },
   "source": {
     "downloadRoot": "D:/a/BAAssetBundlesJP/BAAssetBundlesJP/downloads/jp/android/cache",
-    "zipCount": 206,
-    "zipTotalBytes": 9082803259,
-    "fullPatchZipCount": 160,
-    "updatePatchZipCount": 46,
+    "zipCount": 213,
+    "zipTotalBytes": 9207150262,
+    "fullPatchZipCount": 161,
+    "updatePatchZipCount": 52,
     "firstFullPatch": 0.0,
-    "lastFullPatch": 156.0
+    "lastFullPatch": 157.0
   },
   "extraction": {
     "classes": [
@@ -25,20 +25,20 @@
     ],
     "pathMode": "classified",
     "rawFallbackMode": "never",
-    "reportPath": "_reports/gha-37669537880-1.assetbundle-extract-report.json",
+    "reportPath": "_reports/gha-39547540020-1.assetbundle-extract-report.json",
     "counts": {
-      "exported": 33212,
-      "skipped": 2197,
+      "exported": 33388,
+      "skipped": 2205,
       "failed": 5,
       "rawFallback": 0
     }
   },
   "output": {
     "root": "D:/a/_temp/BAAssetBundlesJP-Assets",
-    "resourceFileCount": 33212,
-    "resourceTotalBytes": 8977006010,
+    "resourceFileCount": 33388,
+    "resourceTotalBytes": 9005685428,
     "byExtension": {
-      ".png": 33212
+      ".png": 33388
     },
     "largeFiles": []
   },
