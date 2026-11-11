@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedUtc": "2026-10-28T14:00:14.044059Z",
-  "runId": "gha-40695187702-1",
+  "updatedUtc": "2026-11-11T20:19:26.224857Z",
+  "runId": "gha-43090231940-1",
   "settings": {
     "platform": "android",
     "classes": [
@@ -13,12 +13,12 @@
     "entryPattern": ""
   },
   "downloadRoot": "D:\\a\\BAAssetBundlesJP\\BAAssetBundlesJP\\downloads\\jp\\android\\cache",
-  "zipCount": 216,
+  "zipCount": 219,
   "zips": {
     "FullPatch_000.zip": {
       "name": "FullPatch_000.zip",
       "size": 52734091,
-      "sha256": "3cf66c15a0638f69bb281396525b33a061d047dd4fd4112e612d5626964a7593",
+      "sha256": "caac643568c2672537c45a6fcb9e903d5e20d264b6e6dce4c5ad8e24c993ded9",
       "outputs": [
         "assets/mx/3dobject/airi_original_icecream/Airi_Original_Icecream.png",
         "assets/mx/3dobject/airi_original_icecream/Airi_Original_Icecream_Sepc.png",
@@ -422,7 +422,7 @@
     "FullPatch_001.zip": {
       "name": "FullPatch_001.zip",
       "size": 52500175,
-      "sha256": "1d85650108604070f119c63b6d69907d47b3b291702f93f5f38fe2fb719ce420",
+      "sha256": "ca79a84eb389284ec318083985b677f22a924f6f33ca41607e69f7c948759eda",
       "outputs": [
         "assets/mx/cafe/highlander/suitcase_01/my_highlander_01_suitcase_01.png",
         "assets/mx/cafe/highlander/symbol_01/my_highlander_01_symbol_01.png",
@@ -657,7 +657,7 @@
     "FullPatch_002.zip": {
       "name": "FullPatch_002.zip",
       "size": 52553418,
-      "sha256": "891a1f9d0dc8d57df83d9dc15c951c742b4da444ab856195fe190a3575606240",
+      "sha256": "9ecd97917f9fab207c4d8c0459de82f9976df8d3945fdd99cbb623a717588aa8",
       "outputs": [
         "assets/mx/cafe/misc/my_event078_battingmachine/my_event078_battingmachine.png",
         "assets/mx/cafe/misc/my_event078_battingmachine/my_event078_battingmachine_net.png",
@@ -806,7 +806,7 @@
     "FullPatch_003.zip": {
       "name": "FullPatch_003.zip",
       "size": 52657763,
-      "sha256": "76dd8b0ea652f73e66e2a0487ead74d10a60b53a4618e7667a4fb1e2eced5fba",
+      "sha256": "e2be68a8ce54149e6169a74fc35003c4ce0dc87cce83a883b6772a1313a33173",
       "outputs": [
         "assets/mx/cafe/misc/my_event15_table/my_event15_table.png",
         "assets/mx/cafe/misc/my_event15_teapartytable/my_event15_teapartytable.png",
@@ -1056,7 +1056,7 @@
     "FullPatch_004.zip": {
       "name": "FullPatch_004.zip",
       "size": 49178114,
-      "sha256": "d9cee35aabe20efd659c30aae866b0d4a9d85de64de0c3523f8579e000080df1",
+      "sha256": "bcb399ebd6a8c3912a0dd840705c210e916b2d92f2f1aea6c2f053f51bfa0032",
       "outputs": [
         "assets/mx/cafe/shoppingmall/toyshelf_01/my_shoppingmall_01_toyshelf_01.png",
         "assets/mx/cafe/shoppingmall/vegetablestand_01/my_shoppingmall_01_vegetablestand_01.png",
@@ -1252,7 +1252,7 @@
     "FullPatch_005.zip": {
       "name": "FullPatch_005.zip",
       "size": 52114269,
-      "sha256": "31960d13d5a6a8005600354e73c2133122f84f84e63117ca94f4f26c39537b4e",
+      "sha256": "0ca538bd9b57b2dc31c240cdb5f25a1eb4b5b62d393299b02d8c3ff341c58641",
       "outputs": [
         "assets/mx/cafe/mxcommon/CaffeeBG.png",
         "assets/mx/cafe/mxcommon/my_cafe_bg.png",
@@ -1411,7 +1411,7 @@
     "FullPatch_006.zip": {
       "name": "FullPatch_006.zip",
       "size": 52173864,
-      "sha256": "7efd5d9f0dc57391417208436f6ab4f06024a796d00d496a42dafee0ebbca6ba",
+      "sha256": "27a9dc04302d4333d3ce39e96e0975cb1fc07d314fbd5e431c56665e627faf25",
       "outputs": [
         "assets/mx/characters/ako_original/Ako_Original_Body.png",
         "assets/mx/characters/ako_original/Ako_Original_Body_Mask.png",
@@ -1562,7 +1562,7 @@
     "FullPatch_007.zip": {
       "name": "FullPatch_007.zip",
       "size": 50316660,
-      "sha256": "d73f39c95605e679356231750f3b4b8a6188314749445706dbd05df0ca96fca1",
+      "sha256": "717cd1bc4c31436fb62751afd0e8f272b78d0afbf11d29de374ba32d2f6e8f0f",
       "outputs": [
         "assets/mx/characters/ch0060/CH0060_Body.png",
         "assets/mx/characters/ch0060/CH0060_Body_Mask.png",
@@ -1701,7 +1701,7 @@
     "FullPatch_008.zip": {
       "name": "FullPatch_008.zip",
       "size": 51741105,
-      "sha256": "c8409cd86c178d3087f71316e3fadaddffe3807b47164890e14b01df28dc941a",
+      "sha256": "c5620a295faf62b9525021cfb6d4ec35afe5c2a9143b4fa1c2b6e5e46a27e0a8",
       "outputs": [
         "assets/mx/characters/ch0070/CH0070_Body.png",
         "assets/mx/characters/ch0070/CH0070_Body_Mask.png",
@@ -1855,7 +1855,7 @@
     "FullPatch_009.zip": {
       "name": "FullPatch_009.zip",
       "size": 49987212,
-      "sha256": "ec1ed317ee9d89a7b043a396272987d19ae6e33a9d6d0409072cbb08c373c685",
+      "sha256": "5eaa32094d88c04a8218c77db81b1f423a3bad9be219cb282f530eb1207efe93",
       "outputs": [
         "assets/mx/characters/ch0082/CH0082_Body.png",
         "assets/mx/characters/ch0082/CH0082_Body_Mask.png",
@@ -2032,7 +2032,7 @@
     "FullPatch_010.zip": {
       "name": "FullPatch_010.zip",
       "size": 48526887,
-      "sha256": "bbde0c1cf6509905588853df1ac6ed6d86a886904b75afcb7042d98917e4e68d",
+      "sha256": "0af2d3f119bfc7c38a2e6bf7e26a665119b0a52af20aebd967972f6412b6acc5",
       "outputs": [
         "assets/mx/characters/ch0095/CH0095_Body.png",
         "assets/mx/characters/ch0095/CH0095_Body_Mask.png",
@@ -2146,7 +2146,7 @@
     "FullPatch_011.zip": {
       "name": "FullPatch_011.zip",
       "size": 51596008,
-      "sha256": "293840fc8ebd589a40c77069acce68a900eae6cc321410a2aee3dd607c65cdae",
+      "sha256": "47cde6f6ad9e52f5ff52f3afdf3dcabcc04d881a25c09223c5c8cb0bba4c1594",
       "outputs": [
         "assets/mx/characters/ch0110/CH0110_Body.png",
         "assets/mx/characters/ch0110/CH0110_Body_Mask.png",
@@ -2280,7 +2280,7 @@
     "FullPatch_012.zip": {
       "name": "FullPatch_012.zip",
       "size": 52118585,
-      "sha256": "bc26179006ed172ae8687c1b134dad68f6df4fd3bc99e0dfac6ae07a32becf49",
+      "sha256": "da7fd51695d219f30f8770cc1852598a5ef5642bef96d284431505139ceb6b2c",
       "outputs": [
         "assets/mx/characters/ch0135/CH0135_Body.png",
         "assets/mx/characters/ch0135/CH0135_Body_Mask.png",
@@ -2469,7 +2469,7 @@
     "FullPatch_013.zip": {
       "name": "FullPatch_013.zip",
       "size": 46062456,
-      "sha256": "c1b60501859151411052583cf433dde380630a38f36dd43f230184ffaf9275a7",
+      "sha256": "bd0a060cfa7148c6b89780fd8c7ff5484d49180082b74b6703e94b5dd9ce4ef7",
       "outputs": [
         "assets/mx/characters/ch0152/CH0152_Body.png",
         "assets/mx/characters/ch0152/CH0152_Body_Mask.png",
@@ -2687,7 +2687,7 @@
     "FullPatch_014.zip": {
       "name": "FullPatch_014.zip",
       "size": 50876481,
-      "sha256": "38be55c989062c7474e304b288ff5a7a4bc76d50f5bd0c740231087a1d6ac68c",
+      "sha256": "04504531823a06697b2737cf0259b3531c3b854e5542131d5aee9b0adcbc3d11",
       "outputs": [
         "assets/mx/characters/ch0164/CH0164_Body.png",
         "assets/mx/characters/ch0164/CH0164_Body_Mask.png",
@@ -2820,7 +2820,7 @@
     "FullPatch_015.zip": {
       "name": "FullPatch_015.zip",
       "size": 52272731,
-      "sha256": "a23c9dc527137737c46bdeccac884dab784bf16dda695a6608ee55508e307981",
+      "sha256": "cc7c8e82739e63498b684f4c1d0ea64a80483aee28ff4d27a1959f558a4e1b4d",
       "outputs": [
         "assets/mx/characters/ch0173/CH0173_Body.png",
         "assets/mx/characters/ch0173/CH0173_Body_Mask.png",
@@ -2916,7 +2916,7 @@
     "FullPatch_016.zip": {
       "name": "FullPatch_016.zip",
       "size": 50676664,
-      "sha256": "7231dd19a1e1cd6a5d16cc0b82354b006b6f385acd8dfcec9dc5fcafce7da102",
+      "sha256": "14ee0e1b90fce2b1d4b41692aa5c1fb4246eae3ea21bcbfded45b37f072aa50f",
       "outputs": [
         "assets/mx/characters/ch0177/CH0177_Body.png",
         "assets/mx/characters/ch0177/CH0177_Body_Mask.png",
@@ -3092,7 +3092,7 @@
     "FullPatch_017.zip": {
       "name": "FullPatch_017.zip",
       "size": 52328581,
-      "sha256": "8a99d7973057dde87146f1d436d51687fb6f1537716822a30a5b60cf3d236dc2",
+      "sha256": "d682eb48a310206a90d5204dc23198042dd47df87961bff165e092dd0628ca87",
       "outputs": [
         "assets/mx/characters/ch0184/CH0184_Body.png",
         "assets/mx/characters/ch0184/CH0184_Body_EyeMouth.png",
@@ -3214,7 +3214,7 @@
     "FullPatch_018.zip": {
       "name": "FullPatch_018.zip",
       "size": 52343954,
-      "sha256": "01005d3fff87ca81381a95fa4daacbdfdf438feda9cfb1358a52a0cf7b4718f3",
+      "sha256": "eff5b41b2263985c252a21ea78a72232f21a2490a809ecf687bc98f0d86e89f1",
       "outputs": [
         "assets/mx/characters/ch0188/CH0188_Body.png",
         "assets/mx/characters/ch0188/CH0188_Body_Mask.png",
@@ -3414,7 +3414,7 @@
     "FullPatch_019.zip": {
       "name": "FullPatch_019.zip",
       "size": 52185605,
-      "sha256": "b3a28f4b8ef6f18dfda51fed6684fd97c07de2318ae6c9c86b9ca7b8d61d320e",
+      "sha256": "171444330b77f82ac60e320ed7e2cdfdb1dcdb77e41cef631f3f98bad6a18e18",
       "outputs": [
         "assets/mx/characters/ch0196/CH0196_Arm.png",
         "assets/mx/characters/ch0196/CH0196_Arm_Mask.png",
@@ -3586,7 +3586,7 @@
     "FullPatch_020.zip": {
       "name": "FullPatch_020.zip",
       "size": 42782271,
-      "sha256": "0887393070c00b86dff2f27f0f16f55c7f46ea779ecc38388a2b01318a8f1fd5",
+      "sha256": "a2b5f89965b420de244ba841462d0e748fdf46dde13d209204d1d4ad7d10f42a",
       "outputs": [
         "assets/mx/characters/ch0203/CH0203_Alpha.png",
         "assets/mx/characters/ch0203/CH0203_Body.png",
@@ -3776,7 +3776,7 @@
     "FullPatch_021.zip": {
       "name": "FullPatch_021.zip",
       "size": 49546991,
-      "sha256": "b1d81fe63ad7a8f640b66c5822e6653030b1c1bdf8c46e968026e1dcf3ec48c3",
+      "sha256": "9251f5b29f55199bf6859212d61c9a8b726d177f1a4df921388d1b4fb7ee2289",
       "outputs": [
         "assets/mx/characters/ch0211/CH0211_Body.png",
         "assets/mx/characters/ch0211/CH0211_Body_Mask.png",
@@ -3922,7 +3922,7 @@
     "FullPatch_022.zip": {
       "name": "FullPatch_022.zip",
       "size": 52137003,
-      "sha256": "1ed0ca7550f9bebd33fdf304e7645fc6915067afee860e66a1bb3869c99a2f4e",
+      "sha256": "244f5fe0b9df9154b8b4bd385fdd1c04801a0c99244632ddfb0749bfce0c3ea5",
       "outputs": [
         "assets/mx/characters/ch0218/CH0218_Body.png",
         "assets/mx/characters/ch0218/CH0218_Body_Mask.png",
@@ -4044,7 +4044,7 @@
     "FullPatch_023.zip": {
       "name": "FullPatch_023.zip",
       "size": 47696095,
-      "sha256": "1fb7128d18ce080152b7d3635b8f992b5a39bf9a74b200a586d68e6fc48e0cae",
+      "sha256": "08ae75aef48ea8b2916fec607df2a5af48d0d4d9d848d17d33ba41bf7d671e0e",
       "outputs": [
         "assets/mx/characters/ch0222/CH0222_Body.png",
         "assets/mx/characters/ch0222/CH0222_Body_Mask.png",
@@ -4182,7 +4182,7 @@
     "FullPatch_024.zip": {
       "name": "FullPatch_024.zip",
       "size": 50501944,
-      "sha256": "bbd0ef20b091a74cdce65739eecb8826e2505265a6dba0e2f08d3e02173a0215",
+      "sha256": "5b43c8bbc393532508f8cf05aac14aea5f24be617b1d73413ad000885d98d973",
       "outputs": [
         "assets/mx/characters/ch0230/CH0230_Body.png",
         "assets/mx/characters/ch0230/CH0230_Body_Mask.png",
@@ -4320,7 +4320,7 @@
     "FullPatch_025.zip": {
       "name": "FullPatch_025.zip",
       "size": 49062676,
-      "sha256": "3e993911fdb75f1895fbcb336dd064b71535d654efedb7ffd3f7c08b55d5d155",
+      "sha256": "7ddaf83a59dd194b78cb186b787d05cae851fb071f95441c2d20977522e67677",
       "outputs": [
         "assets/mx/characters/ch0238/CH0238_Body.png",
         "assets/mx/characters/ch0238/CH0238_Body_Mask.png",
@@ -4463,7 +4463,7 @@
     "FullPatch_026.zip": {
       "name": "FullPatch_026.zip",
       "size": 51910151,
-      "sha256": "82ad72384448b15c69d818f45597e0941a3ae4a04af219e49ab7f438db6f3910",
+      "sha256": "894162ed2af05562641e7cf5c6be97088b3151fafe717907817f0a1e95ef8fa0",
       "outputs": [
         "assets/mx/characters/ch0246/CH0246_Body.png",
         "assets/mx/characters/ch0246/CH0246_Body_Mask.png",
@@ -4549,7 +4549,7 @@
     "FullPatch_027.zip": {
       "name": "FullPatch_027.zip",
       "size": 51073410,
-      "sha256": "90503acd337b89a06a8b259fc6a339eca924b1f6dc58cdb954cf1acead680450",
+      "sha256": "c36e4a9a4576181ef7e25578c97aa4c42beba7802532f1da75c868e0f5137114",
       "outputs": [
         "assets/mx/characters/ch0252/CH0252_Body01.png",
         "assets/mx/characters/ch0252/CH0252_Body01_Mask.png",
@@ -4744,7 +4744,7 @@
     "FullPatch_028.zip": {
       "name": "FullPatch_028.zip",
       "size": 51395932,
-      "sha256": "6154ce4c559d5b7d2742d341e1513d5f3efb12a452ad56b5842ada16e1b71499",
+      "sha256": "f1309be6029393f9ceadf682591b13d87dc746bd0bffa603f7cd76fff546adf9",
       "outputs": [
         "assets/mx/characters/ch0261/CH0261_Body.png",
         "assets/mx/characters/ch0261/CH0261_Body_Mask.png",
@@ -4873,7 +4873,7 @@
     "FullPatch_029.zip": {
       "name": "FullPatch_029.zip",
       "size": 51555185,
-      "sha256": "af54072a5d7f701f260f6855fd18f27ac00ff1c3ecfe523aeb087026b4b63369",
+      "sha256": "7bde8d2e622692b58170f5c34b2ced7ed1235bd3b6d0e644f5ebf24e33ba6859",
       "outputs": [
         "assets/mx/characters/ch0267/CH0267_Alpha.png",
         "assets/mx/characters/ch0267/CH0267_Alpha_Mask.png",
@@ -4991,7 +4991,7 @@
     "FullPatch_030.zip": {
       "name": "FullPatch_030.zip",
       "size": 48302152,
-      "sha256": "acedfbfdc24ef3cfa66a3ecd8c5a75cf448df5e4c04e104b377fde2521614357",
+      "sha256": "fc49775feb08f6f0bdbd05d7978baa1d9c69040e8ceb9ed1c37b5c00090fff7c",
       "outputs": [
         "assets/mx/characters/ch0273/CH0273_Body.png",
         "assets/mx/characters/ch0273/CH0273_Body_Mask.png",
@@ -5098,7 +5098,7 @@
     "FullPatch_031.zip": {
       "name": "FullPatch_031.zip",
       "size": 51553494,
-      "sha256": "c24f885417b79707a35dc84d3c25af22e88302a04919270b1b2de7f57152bfa5",
+      "sha256": "7c664c15ed5f8f9ff85f366ee5d874ec6ab593d9f04c357fb30db9b55c71829d",
       "outputs": [
         "assets/mx/characters/ch0281/CH0281_Body.png",
         "assets/mx/characters/ch0281/CH0281_Body_Mask.png",
@@ -5209,7 +5209,7 @@
     "FullPatch_032.zip": {
       "name": "FullPatch_032.zip",
       "size": 45702662,
-      "sha256": "6a3946b2f5298cf1280c8780c2de35ca0a770836174a2f9083c195647f3bc573",
+      "sha256": "ab32c1060906f46265f6549041c12076e40359e208e8a6491c3ecf431ed6af2d",
       "outputs": [
         "assets/mx/characters/ch0288/CH0288_Body.png",
         "assets/mx/characters/ch0288/CH0288_Body_Mask.png",
@@ -5388,7 +5388,7 @@
     "FullPatch_033.zip": {
       "name": "FullPatch_033.zip",
       "size": 48905470,
-      "sha256": "f6dfab3c0c9b820d1784f4a550deb7bc9fd9ac62b622d0c2d6e1ffbcb5b2efe7",
+      "sha256": "1867eb0f2ee301b354c02e95550b0318f961cb3efd77ea6ec00807f0e229af69",
       "outputs": [
         "assets/mx/characters/ch0297/CH0297_Body.png",
         "assets/mx/characters/ch0297/CH0297_Body_Mask.png",
@@ -5514,7 +5514,7 @@
     "FullPatch_034.zip": {
       "name": "FullPatch_034.zip",
       "size": 51238361,
-      "sha256": "908eab7d83571f0903487904dba854cacfa2f016d5ba0f146ffb99a21884994e",
+      "sha256": "5b6e14717a3d9eeb416f1dd7afd7e9d18ddf9d29bf69e771ab905207b2d0847f",
       "outputs": [
         "assets/mx/characters/ch0304/CH0304_Body.png",
         "assets/mx/characters/ch0304/CH0304_Body_Mask.png",
@@ -5630,7 +5630,7 @@
     "FullPatch_035.zip": {
       "name": "FullPatch_035.zip",
       "size": 44790834,
-      "sha256": "76ea5bcf501213c5b2e055da9dee4f50e637633b1476657b68d58589c3968128",
+      "sha256": "7bccf1b67a6fd6f08bd4c2518d6bb98346cc45e3188de6aa3fb3e4204a92a5ef",
       "outputs": [
         "assets/mx/characters/ch0309/CH0309_Body.png",
         "assets/mx/characters/ch0309/CH0309_Body_Mask.png",
@@ -5738,8 +5738,8 @@
     },
     "FullPatch_036.zip": {
       "name": "FullPatch_036.zip",
-      "size": 51406678,
-      "sha256": "31bf325070015171d5922128475953262813e94cda49c1aa671bc19cad1bada5",
+      "size": 51406670,
+      "sha256": "22076058294c5d933568005d05e4fb32e67e898b22155c1d4d7cb4b3f05f10e8",
       "outputs": [
         "assets/mx/characters/ch0320/CH0320_Body.png",
         "assets/mx/characters/ch0320/CH0320_Body_Mask.png",
@@ -5858,7 +5858,7 @@
     "FullPatch_037.zip": {
       "name": "FullPatch_037.zip",
       "size": 47683328,
-      "sha256": "d92c723a85ddbd5b1ba892f1d4a851492d37271dcea29a57559205529252f365",
+      "sha256": "404997734960276007255ccc10ce933add3bb1c6f55a2efa13ee1ea0c5f1decf",
       "outputs": [
         "assets/mx/characters/ch0326/CH0326_Body.png",
         "assets/mx/characters/ch0326/CH0326_Body_Mask.png",
@@ -6017,7 +6017,7 @@
     "FullPatch_038.zip": {
       "name": "FullPatch_038.zip",
       "size": 52418412,
-      "sha256": "df045586a94c98b19efaede6042be54c15ca7911f71723dee5be2b7f1828bf60",
+      "sha256": "5c60667f2df6a713a3b113372594308b8056eb845162c3bcbfdc4a65103411a5",
       "outputs": [
         "assets/mx/characters/ch0334/CH0334_Body.png",
         "assets/mx/characters/ch0334/CH0334_Body_Mask.png",
@@ -6217,7 +6217,7 @@
     "FullPatch_039.zip": {
       "name": "FullPatch_039.zip",
       "size": 49698526,
-      "sha256": "5695b9bf817fcce57b3bcc391b28a47f9663a02fba59e089a5169ba36a7a0ab6",
+      "sha256": "20e6d82ec770ff3c04c203c1982af5225cf80bc45720c00ade33714fc70fcb29",
       "outputs": [
         "assets/mx/characters/ch0336_carrier/CH0336_Carrier_Body.png",
         "assets/mx/characters/ch0336_carrier/CH0336_Carrier_Body_Mask.png",
@@ -6319,7 +6319,7 @@
     "FullPatch_040.zip": {
       "name": "FullPatch_040.zip",
       "size": 52390997,
-      "sha256": "c8834f0bba1e036028ce6e443d9544b40f4dcd7c989097dad3748d0ad1c67bfb",
+      "sha256": "1343820ca2bc412f41821cf0e0501db67bbb78abc9abdb3964fe0273a16e23ac",
       "outputs": [
         "assets/mx/characters/ch0346/CH0346_Body.png",
         "assets/mx/characters/ch0346/CH0346_Body_Mask.png",
@@ -6419,7 +6419,7 @@
     "FullPatch_041.zip": {
       "name": "FullPatch_041.zip",
       "size": 49515326,
-      "sha256": "87bb8989cccd75034501be4110f2449028f0118f4744e06b4164ebf5ecf214ca",
+      "sha256": "c5ae6aec9eb4360604f8a436b9af81e7536efbf2c693dba869fb587893f8e11b",
       "outputs": [
         "assets/mx/characters/ch0355_01/CH0355_01_Body.png",
         "assets/mx/characters/ch0355_01/CH0355_01_Body_Mask.png",
@@ -6521,8 +6521,8 @@
     },
     "FullPatch_042.zip": {
       "name": "FullPatch_042.zip",
-      "size": 47955984,
-      "sha256": "e1337282fdbb57ec9b394ab31b577068fc92a012f4f491f37639f0d071f1e7ab",
+      "size": 47955989,
+      "sha256": "8a6e2488763f2de497139329b5452aaab772f7b1ba80a5aaf3e09109d7d4a290",
       "outputs": [
         "assets/mx/characters/ch0379/CH0379_Body.png",
         "assets/mx/characters/ch0379/CH0379_Body_Mask.png",
@@ -6701,7 +6701,7 @@
     "FullPatch_043.zip": {
       "name": "FullPatch_043.zip",
       "size": 52247588,
-      "sha256": "1cc82fb58a84113c6a941beb0efa3c67716f3d4e66536379050fa331f527934a",
+      "sha256": "5a515dc59f951f9dc9e32f6a4b19298325e466f0396b2d7b482fd9f659242123",
       "outputs": [
         "assets/mx/characters/cherino_original/Cherino_Original_Body.png",
         "assets/mx/characters/cherino_original/Cherino_Original_Body_Mask.png",
@@ -6843,7 +6843,7 @@
     "FullPatch_044.zip": {
       "name": "FullPatch_044.zip",
       "size": 38107638,
-      "sha256": "0859dc38b70030c6bfea227332ac1ff49a62bd89c6fc4e19209636022b718a44",
+      "sha256": "e1fd5f2aecc2bcf147847425859dedb6d1a68e48c66e5e8d360c58485db399b3",
       "outputs": [
         "assets/mx/characters/hina_original/Hina_Halo.png",
         "assets/mx/characters/hina_original/Hina_Mouth.png",
@@ -6939,7 +6939,7 @@
     "FullPatch_045.zip": {
       "name": "FullPatch_045.zip",
       "size": 52438356,
-      "sha256": "13427008834f89672551d5d23a61606009f791383f3a2b08f5af784290d420ed",
+      "sha256": "51cd31b9c601af23f9bce4a2e9599f028f48b5d832d4d0ce628314f3a5bbffaa",
       "outputs": [
         "assets/mx/characters/ibuki_original/FX_TEX_Circle_18.png",
         "assets/mx/characters/ibuki_original/FX_TEX_Circle_Ngone_02.png",
@@ -7027,7 +7027,7 @@
     "FullPatch_046.zip": {
       "name": "FullPatch_046.zip",
       "size": 49665609,
-      "sha256": "8622712d3acc4a387d1ac52aa09db57bb312f4e6a7e9864c6ad1e6fbfed2b86d",
+      "sha256": "104a52490865067fea0ceb3de21d484556e5efb3b2845a8bf244974113d9b8bc",
       "outputs": [
         "assets/mx/characters/juri_original/FX_TEX_Circle_Glow_01a.png",
         "assets/mx/characters/juri_original/Juri_Original_Body.png",
@@ -7202,7 +7202,7 @@
     "FullPatch_047.zip": {
       "name": "FullPatch_047.zip",
       "size": 48496765,
-      "sha256": "f9c37b23a946038662dea97182e8ec036a228d62791cb4fbdf3ad090ef4d90c9",
+      "sha256": "ac4430c6e0b4d60a36f814c3d8579642e148f359d56036e5f2bf02295b39d011",
       "outputs": [
         "assets/mx/characters/maki_original/Maki_Original_Body.png",
         "assets/mx/characters/maki_original/Maki_Original_Body_Mask.png",
@@ -7366,8 +7366,8 @@
     },
     "FullPatch_048.zip": {
       "name": "FullPatch_048.zip",
-      "size": 52000289,
-      "sha256": "7342088cac51612ffc941973e7b3baff293a09b3f265ad1d211dd6a48bf7b957",
+      "size": 52000361,
+      "sha256": "6d9001298a47fa2b5f9e19f5f5838e0bfe3100c4fb1d056d0717b4138d061e0a",
       "outputs": [
         "assets/mx/characters/momiji_original/FX_TEX_BG_Window_01.png",
         "assets/mx/characters/momiji_original/FX_TEX_Eye_Motion_31.png",
@@ -7524,7 +7524,7 @@
     "FullPatch_049.zip": {
       "name": "FullPatch_049.zip",
       "size": 48344578,
-      "sha256": "e354c2507bfbb199f9509af77fee8b35793148044e4f3f544bb2ee443ff68fc0",
+      "sha256": "d017efba9f90d36e0e6b0659dd197c9363237b37bb1536d75619940103ff958b",
       "outputs": [
         "assets/mx/characters/pina_original/Pina_Original_Body.png",
         "assets/mx/characters/pina_original/Pina_Original_Body_Mask.png",
@@ -7658,7 +7658,7 @@
     "FullPatch_050.zip": {
       "name": "FullPatch_050.zip",
       "size": 51971188,
-      "sha256": "dc66bb8f78f11044467f0dec46f2b2c149f084e97913d4a96f2463ebf9e3d9c7",
+      "sha256": "aadaa6f236b25dfb686c59a74373662c74576c608010c6a08bc985a9a1375716",
       "outputs": [
         "assets/mx/characters/shigure_original/FX_TEX_Hipflask_Water_RGB_01.png",
         "assets/mx/characters/shigure_original/FX_TEX_Img_Liquid_RGB_03.png",
@@ -7750,7 +7750,7 @@
     "FullPatch_051.zip": {
       "name": "FullPatch_051.zip",
       "size": 50143084,
-      "sha256": "a6bd9eceafcd8d3992ee4d68f5c716a00b46f4c07465c4abb274ab43d6780b31",
+      "sha256": "961adebf323e67c813600e80c36c0de56b7115c33b562ecbf3dbde286f63761b",
       "outputs": [
         "assets/mx/characters/mxcommon/Cha_Matcap_Cartoon_01.png",
         "assets/mx/characters/mxcommon/Character_Mouth_2.png",
@@ -7961,7 +7961,7 @@
     "FullPatch_052.zip": {
       "name": "FullPatch_052.zip",
       "size": 48464011,
-      "sha256": "e78844da4cd95fabb41a4b1b1495a306d80bd99f08b8d12622c59e5c77f7ea2d",
+      "sha256": "fddce676535dd9cb0a35aca06252fb07f7a7478317e31e47ea3c4951d5c58efb",
       "outputs": [
         "assets/mx/effectsfreezed/texture/FX_TEX_4PXRED.png",
         "assets/mx/effectsfreezed/texture/FX_TEX_Airi_Icecream_01.png",
@@ -9157,8 +9157,8 @@
     },
     "FullPatch_053.zip": {
       "name": "FullPatch_053.zip",
-      "size": 47625921,
-      "sha256": "7e844f0406158e387d1be46775a9b7c0c2ef0fb18610809d0c62fd5756c4894b",
+      "size": 47625909,
+      "sha256": "62d16f2b11860fdb49509619b80c4009772483e8ec876f710fc3adc1d2376ad3",
       "outputs": [
         "assets/mx/field/npcs/FX_TEX_Balloon_Img_01.png",
         "assets/mx/field/npcs/FX_TEX_Bubble_RGB_02.png",
@@ -9188,7 +9188,7 @@
     "FullPatch_054.zip": {
       "name": "FullPatch_054.zip",
       "size": 43093640,
-      "sha256": "d61ad02b2711f3ae7b00e51bbc071327760efba5fa2f1daa7b9b70f7edd8e35b",
+      "sha256": "b1d3b0e49f5f9b836a06a23e1bd1272d525e45c5d92aa82ce5e72e6dbaa3354a",
       "outputs": [
         "assets/mx/field/scenes/FX_TEX_Display_01.png",
         "assets/mx/field/scenes/FX_TEX_Display_break_01.png",
@@ -9370,7 +9370,7 @@
     "FullPatch_055.zip": {
       "name": "FullPatch_055.zip",
       "size": 52393996,
-      "sha256": "be5350102de7486a5982ee66b305d6fae5191a25fa5ea66db110658f23894dd7",
+      "sha256": "217cfa3870b29083030b66b5eb67ee3fbd495c01f1b1d27f26778b9b01686967",
       "outputs": [
         "assets/mx/hexamaps/conquest/Conquest_Tile.png",
         "assets/mx/hexamaps/conquest/Conquest_Tile_02.png",
@@ -9493,7 +9493,7 @@
     "FullPatch_056.zip": {
       "name": "FullPatch_056.zip",
       "size": 40294561,
-      "sha256": "7c83abee69e9566fcb7d772e975625b7e9b92b107b4d550173d60f6c7b4ff0b4",
+      "sha256": "bdbd48d2b2fb6398d980b21009675bba35d57e7f47dfdcb94a684bd109bcf3ca",
       "outputs": [
         "assets/mx/minigame/dicerace/DiceRace_Back_818.png",
         "assets/mx/minigame/dicerace/DiceRace_Dice_818.png",
@@ -9620,7 +9620,7 @@
     "FullPatch_057.zip": {
       "name": "FullPatch_057.zip",
       "size": 49883965,
-      "sha256": "c3481350afdc5264f2cca9d78d35e4741e34b8ebf3a83be86be4917e83e4dd36",
+      "sha256": "9bd32188ae9df80650edfc5c877652541b92b9f9f145ce5547a7bfd0476ac8bc",
       "outputs": [
         "assets/mx/minigame/tankracing/FX_TEX_Racing_Check_Pattern_01.png",
         "assets/mx/minigame/tankracing/FX_TEX_Racing_Cutin_Pattern_01.png",
@@ -9671,7 +9671,7 @@
     "FullPatch_058.zip": {
       "name": "FullPatch_058.zip",
       "size": 48668330,
-      "sha256": "0b5ccbbb370cb84184b65b2a0fe025a7bd9a3da3b9c520846070b715fac8775c",
+      "sha256": "fb826edfe7d6cbf88461676b9b1916ef5ccc144d64372a4718fa65a8cf71e2dd",
       "outputs": [
         "assets/mx/npcs/armoredcar_wakamo_mg/ArmoredCar_Wakamo_MG.png",
         "assets/mx/npcs/armoredcar_wakamo_mg/ArmoredCar_Wakamo_MG_mask.png",
@@ -9743,7 +9743,7 @@
     "FullPatch_059.zip": {
       "name": "FullPatch_059.zip",
       "size": 52096279,
-      "sha256": "c973bb6324cdad9d845741ec74ab61855419b04d97c434f3e4f9c5f8fa5de3fd",
+      "sha256": "8a0eb91d07b337fbd1d34f51bce6cd8932efa541d9fbdd8101a8d70c4dd1e925",
       "outputs": [
         "assets/mx/npcs/binah_original/Binah_Halo.png",
         "assets/mx/npcs/binah_original/Binah_Original.png",
@@ -9906,7 +9906,7 @@
     "FullPatch_060.zip": {
       "name": "FullPatch_060.zip",
       "size": 52001597,
-      "sha256": "93e7675559798d80fc262e3dc021ea27da84459ce3be7146482341f0505404eb",
+      "sha256": "620bf2d2ada82f491ed8716bf8a7ec4eb50f16c848b16b921172391818fc3de7",
       "outputs": [
         "assets/mx/npcs/chesed_original/Chesed_Original.png",
         "assets/mx/npcs/chesed_original/Chesed_Original_Halo.png",
@@ -10002,7 +10002,7 @@
     "FullPatch_061.zip": {
       "name": "FullPatch_061.zip",
       "size": 37626283,
-      "sha256": "63fae18c2d36e5fe9fbc6448ed23252d0d6c3cc39429be84f6180382713b310d",
+      "sha256": "123f61f2b19d7914a9d3c425464272d92677ac1de26f82ee94dce3643bb19cd8",
       "outputs": [
         "assets/mx/npcs/en0002/EN0002_Body.png",
         "assets/mx/npcs/en0002/EN0002_Body_Mask.png",
@@ -10143,7 +10143,7 @@
     "FullPatch_062.zip": {
       "name": "FullPatch_062.zip",
       "size": 51098240,
-      "sha256": "172696b80d405738df7ac538b32815dc30e7822a78457fe390f666b5bf1d22f0",
+      "sha256": "a8dbfc212d69223b4e60b521c7a609606ae5a5742b482e209f038a09da6ae814",
       "outputs": [
         "assets/mx/npcs/en0006_original/EN0006.png",
         "assets/mx/npcs/en0006_original/EN0006_Mask.png",
@@ -10334,7 +10334,7 @@
     "FullPatch_063.zip": {
       "name": "FullPatch_063.zip",
       "size": 52442686,
-      "sha256": "37034b96b96746dc8687ac0cbdb4eb7c5f0c5bd753a71c0e025f7692974a59a5",
+      "sha256": "bb30a77847f030caee0d3b7149f43c3e933197045b56b4525c95bbdfe0100d4d",
       "outputs": [
         "assets/mx/npcs/en0009_object_a/EN0009_Object_A.png",
         "assets/mx/npcs/en0009_object_a/EN0009_Object_A_Mask.png",
@@ -10484,7 +10484,7 @@
     "FullPatch_064.zip": {
       "name": "FullPatch_064.zip",
       "size": 51558725,
-      "sha256": "b9ffde9e65556a20b3894599be2c66ae556554673e22ebb5a6ecd0eccf028e85",
+      "sha256": "ce55e79268ae96639c87650cd52e39fdeedfa18cc861ebe855e3e086833ef755",
       "outputs": [
         "assets/mx/npcs/en0012_cutin/Cinematic_R88_NPC0001.png",
         "assets/mx/npcs/en0012_cutin/Cinematic_R88_NPC0001_Mask.png",
@@ -10545,7 +10545,7 @@
     "FullPatch_065.zip": {
       "name": "FullPatch_065.zip",
       "size": 49164677,
-      "sha256": "426b53b63888e4660d4657a6d53b721b3feeb136c82a24f295b520d0661c9ae4",
+      "sha256": "ccef810f85ee1724220a61d54cced217f07e943e95d95ff432ffff6a5be47d91",
       "outputs": [
         "assets/mx/npcs/en0015_original/EN0015_Original_Body.png",
         "assets/mx/npcs/en0015_original/EN0015_Original_Body_Mask.png",
@@ -10631,7 +10631,7 @@
     "FullPatch_066.zip": {
       "name": "FullPatch_066.zip",
       "size": 51775532,
-      "sha256": "1ebdcbdced6b9508f09b1b7e959ebf375e58b54e46e5652351b06f3e51bd2d3b",
+      "sha256": "6ab1d308048200cb28d90db0441e61512090a3a83d1f58d89aae0f17b0636487",
       "outputs": [
         "assets/mx/npcs/en0022_original_01/EN0022_Object_02.png",
         "assets/mx/npcs/en0022_original_01/EN0022_Object_02_Mask.png",
@@ -10695,7 +10695,7 @@
     "FullPatch_067.zip": {
       "name": "FullPatch_067.zip",
       "size": 51744574,
-      "sha256": "7c2407fd2545323fc05d168a9ca457ee3a214472c3637dee7ec7d1177bc4208a",
+      "sha256": "354c94d18383ca072637e4a80e19c3836867f720d54caa32a9d995b5001bfe66",
       "outputs": [
         "assets/mx/npcs/en0023_core/EN0023_Core.png",
         "assets/mx/npcs/en0023_core/EN0023_Core_Core_ProjFlipBook.png",
@@ -10775,7 +10775,7 @@
     "FullPatch_068.zip": {
       "name": "FullPatch_068.zip",
       "size": 51636573,
-      "sha256": "dbc01ab0587c10299eb2957c264809e2ee1263ca2c89aafda45616ee30fe33ea",
+      "sha256": "d2c64649945b02f13fc4d5a003d7f1fd983ca32520a77f644e1da2193f91573e",
       "outputs": [
         "assets/mx/npcs/ghosttales_katashiro/FX_TEX_Crack_Step_01.png",
         "assets/mx/npcs/ghosttales_katashiro/FX_TEX_Fire_Lobby_03.png",
@@ -10917,7 +10917,7 @@
     "FullPatch_069.zip": {
       "name": "FullPatch_069.zip",
       "size": 46776478,
-      "sha256": "36ec80ba7b9471492443c67219d81cfa4b966e33b501069734713e8a4d68cf13",
+      "sha256": "6077a85e60996409201fb7f42689ac58fb04fb35832cb6b2b5e179a2eba76cdd",
       "outputs": [
         "assets/mx/npcs/hod_colour/FX_TEX_Chain_Scroll_01.png",
         "assets/mx/npcs/hod_colour/FX_TEX_Gra_04.png",
@@ -11049,7 +11049,7 @@
     "FullPatch_070.zip": {
       "name": "FullPatch_070.zip",
       "size": 52083421,
-      "sha256": "950a6dcdd01850441fe3b323f60f958f9c0a51acb66a8fc769a9af4b771f4c34",
+      "sha256": "e054956235e32882211d0a239bd3b1b67f9e5cefaad99357984e310008aac8ec",
       "outputs": [
         "assets/mx/npcs/kaito_trinity_hg/FX_TEX_Bulletline_02_Clamp.png",
         "assets/mx/npcs/kaito_trinity_hg/FX_TEX_Gra_W_01.png",
@@ -11120,7 +11120,7 @@
     "FullPatch_071.zip": {
       "name": "FullPatch_071.zip",
       "size": 52163691,
-      "sha256": "d7910a792da221cdce60dbdf436fdac7fb504f0578146f641222b75d9654ba77",
+      "sha256": "fa7c46633c95a14bb291644ed09ca3717a5a5beacb7b884087d8b141018c217a",
       "outputs": [
         "assets/mx/npcs/lighttank_helmet_vulcan/LightTank_Helmet_Vulcan_01.png",
         "assets/mx/npcs/lighttank_helmet_vulcan/LightTank_Helmet_Vulcan_01_01.png",
@@ -11231,7 +11231,7 @@
     "FullPatch_072.zip": {
       "name": "FullPatch_072.zip",
       "size": 51822352,
-      "sha256": "919920ba71afa52089d9d5a0262572ffd54700454f49c418326c256508c2e4b0",
+      "sha256": "c93ac75727280b77ff529cc30a1a7eb19f2d35f3179c11e761f85e3e9871e09b",
       "outputs": [
         "assets/mx/npcs/perorozilla_colour/Perorozilla_Colour.png",
         "assets/mx/npcs/perorozilla_colour/Perorozilla_Colour_Mask.png",
@@ -11328,7 +11328,7 @@
     "FullPatch_073.zip": {
       "name": "FullPatch_073.zip",
       "size": 52440351,
-      "sha256": "f90d12da3f6a7435d7349ebca8d3ac872fb2787592f4a9d594ab443ad887d628",
+      "sha256": "ab14354b67a99deeb3896046f0d4c724975d949db9e0d93dfc797109c7e21606",
       "outputs": [
         "assets/mx/npcs/schoolgirl02_sukeban_sr/SchoolGirl02_Sukeban_SR.png",
         "assets/mx/npcs/schoolgirl02_sukeban_sr/SchoolGirl02_Sukeban_SR_Mask.png",
@@ -11381,7 +11381,7 @@
     "FullPatch_074.zip": {
       "name": "FullPatch_074.zip",
       "size": 52145524,
-      "sha256": "f4af75f10abeec669dc4c6868241b1590023c6beb28079ecb5e10e3c6dde986b",
+      "sha256": "f5d740846ef74c9941b09cfeb94ad8ef6c0fde8ebdce24067cfa5b5f95db862c",
       "outputs": [
         "assets/mx/npcs/soldier_yoheki_ar/Soldier_Yoheki.png",
         "assets/mx/npcs/soldier_yoheki_ar/Soldier_Yoheki_Mask.png",
@@ -11453,7 +11453,7 @@
     "FullPatch_075.zip": {
       "name": "FullPatch_075.zip",
       "size": 52134690,
-      "sha256": "af85793be7c1ec6fc77a7f6a8adb8f7bd29cd7f3bb8fed2b1737c93f9234a50b",
+      "sha256": "a904825383f9d2917af6110a040d1520240eec5e12845e810a316345a3ce581f",
       "outputs": [
         "assets/mx/npcs/terror_yustinaswim_ar/Terror_YustinaSwim_AR.png",
         "assets/mx/npcs/terror_yustinaswim_ar/Terror_YustinaSwim_AR_Mask.png",
@@ -11509,7 +11509,7 @@
     "FullPatch_076.zip": {
       "name": "FullPatch_076.zip",
       "size": 52261834,
-      "sha256": "100c68a19b350a1cd1075e2f032bb0856256bbc1109c4b2370a5da90dc0c4e54",
+      "sha256": "0057a87f7b16fb4727552c03fec6dce8c17f9816b177ad0ed5ea03c08bc8b528",
       "outputs": [
         "assets/mx/npcs/twinsturret_highlander_mg/FX_TEX_Smoke_RGB_Blur_14.png",
         "assets/mx/npcs/twinsturret_highlander_mg/FX_TEX_Speed_Line_06a.png",
@@ -11557,7 +11557,7 @@
     "FullPatch_077.zip": {
       "name": "FullPatch_077.zip",
       "size": 52530818,
-      "sha256": "cf4ccdc3f8cb4e23710aaee0ca6178711b8245dc6bd8f680f681921d953c099d",
+      "sha256": "8a3c4af9d7ec152a152d3db0e267c6c71d458b7097adb7ebc895cab0ca7ce4d2",
       "outputs": [
         "assets/mx/npcs/mxcommon/FX_TEX_Tri_Glitch_01.png",
         "assets/mx/npcs/mxcommon/TheColor_Pattern_A.png",
@@ -11695,7 +11695,7 @@
     "FullPatch_078.zip": {
       "name": "FullPatch_078.zip",
       "size": 52667953,
-      "sha256": "b36a37566ae2122855383968f5be0c69ee7e912b6e99f39674509c75dd00e380",
+      "sha256": "35bb9222e5bdae8f280bbd173bd14fea1c5c47433e34b2e876187bca1b122bce",
       "outputs": [
         "assets/mx/obstacles/expresstrain_bag_02/Expresstrain_Bag_02.png",
         "assets/mx/obstacles/expresstrain_bag_03/Expresstrain_Bag_03.png",
@@ -11880,7 +11880,7 @@
     "FullPatch_079.zip": {
       "name": "FullPatch_079.zip",
       "size": 48324593,
-      "sha256": "112914a1dd2c3af2c139eceb2544a9dd2466a8e5b263046948c5cca90b824078",
+      "sha256": "d88044645792064fd9c03f1b856c50b70a66ad60583425dea7e2db74dd75e63d",
       "outputs": [
         "assets/mx/obstacles/school_locker/School_Locker.png",
         "assets/mx/obstacles/school_lockerlying/School_LockerLying.png",
@@ -12035,7 +12035,7 @@
     "FullPatch_080.zip": {
       "name": "FullPatch_080.zip",
       "size": 51419162,
-      "sha256": "1d332ae0686cf728072cbf70b05cb576b020d03e1e9dee37d6735f24ac05e6d8",
+      "sha256": "affd07e02d02a1e123c8febd7779c03fd4e84fad1bf0d3c722a4b3ebd3753853",
       "outputs": [
         "assets/mx/prodresources/sccutscene_52000_02/FX_TEX_Img_ScCutScene_52000_01_SakuraTree_01.png",
         "assets/mx/prodresources/sccutscene_52000_03/FX_TEX_BG_01.png",
@@ -12159,7 +12159,7 @@
     "FullPatch_081.zip": {
       "name": "FullPatch_081.zip",
       "size": 52427508,
-      "sha256": "f62eb0f2422fa13097ebcf9699931f875e4d8a0c8e7c2497fc597486ad9aa6a5",
+      "sha256": "64c1d76d3506c51f6900415c3102cdf9a897c76cf900dede7c208ddc330e0be5",
       "outputs": [
         "assets/mx/scenes/battle/52101/Lightmap-0_comp_light.png",
         "assets/mx/scenes/battle/52101/Lightmap-0_comp_light_001.png",
@@ -12300,7 +12300,7 @@
     "FullPatch_082.zip": {
       "name": "FullPatch_082.zip",
       "size": 52392429,
-      "sha256": "985f3f37da39484e3e57b851d4bc4456fa2f57ff6a6164fad9a9ee7bccbb4d2c",
+      "sha256": "b46cf990b11d3eca6b900aed561c9f1e84dd99aeb0c40960a09378415be1485c",
       "outputs": [
         "assets/mx/scenes/battle/destroyedhighway/FX_TEX_Noise_Cloud_01.png",
         "assets/mx/scenes/battle/destroyedhighway/Lightmap-0_comp_light.png",
@@ -12459,7 +12459,7 @@
     "FullPatch_083.zip": {
       "name": "FullPatch_083.zip",
       "size": 51821603,
-      "sha256": "3609491c1d526554f33d4e91ea1558e81102365dd5a155ab0d9065e0c5ebb1a6",
+      "sha256": "04d9676a384d7ac79386261c51c4f1fcd2969cd78e30876cc914acc47907ac1a",
       "outputs": [
         "assets/mx/scenes/battle/highway/Lightmap-0_comp_light.png",
         "assets/mx/scenes/battle/highway/Lightmap-0_comp_light_001.png",
@@ -12584,7 +12584,7 @@
     "FullPatch_084.zip": {
       "name": "FullPatch_084.zip",
       "size": 51693791,
-      "sha256": "a5ce6a02f90c1a90982d0dae7d9987a62f2dedb61de917d1fa7d7248efac6b12",
+      "sha256": "57971148c82d67a91a4ebfd3e98d895d5cce95bb45f91639b0dee630aef7b8e8",
       "outputs": [
         "assets/mx/scenes/battle/milleniumunderground/Lightmap-0_comp_light.png",
         "assets/mx/scenes/battle/milleniumunderground/Lightmap-1_comp_light.png",
@@ -12694,7 +12694,7 @@
     "FullPatch_085.zip": {
       "name": "FullPatch_085.zip",
       "size": 52236571,
-      "sha256": "1136257f9de3995a8654313b77f708f5c5661ab7fb2278dfb58dd7ed37c703c7",
+      "sha256": "3f6f8900c2af144168e365b82454dfc7bafa38351043165a3436124660c05d34",
       "outputs": [
         "assets/mx/scenes/battle/riverside_e/Lightmap-0_comp_light.png",
         "assets/mx/scenes/battle/riverside_e/Lightmap-1_comp_light.png",
@@ -12830,7 +12830,7 @@
     "FullPatch_086.zip": {
       "name": "FullPatch_086.zip",
       "size": 51925729,
-      "sha256": "95f2225b45ae6e28cbfba105dd4c2b976a58e636257932a5f94135e635009a12",
+      "sha256": "537debb0d76bc90db0c9441e3227d44ac112a15bbe5e41019b2555b90d35265e",
       "outputs": [
         "assets/mx/scenes/battle/trinityisland/FX_TEX_Mask_01.png",
         "assets/mx/scenes/battle/trinityisland/FX_TEX_Mask_02.png",
@@ -13002,7 +13002,7 @@
     "FullPatch_087.zip": {
       "name": "FullPatch_087.zip",
       "size": 50603383,
-      "sha256": "5103459beab2ef4c60d04effe0400e082c4489b488d2854e53972dd55eef5890",
+      "sha256": "6d0391352d7eeb61af14cea092a5a69770c6df5206c6bee08250a98d1be25a18",
       "outputs": [
         "assets/mx/scenes/raid/en0021/FX_TEX_EN0021_BG_Background.png",
         "assets/mx/scenes/raid/en0021/FX_TEX_EN0021_BG_Background_Cloud.png",
@@ -13131,7 +13131,7 @@
     "FullPatch_088.zip": {
       "name": "FullPatch_088.zip",
       "size": 50407930,
-      "sha256": "5d2c7579baab871f25d78b3bbd04caa4d74105c77862b31e459a765c48b9ae94",
+      "sha256": "d9f5e07b33fca6ee9a5784d6a6a2761bcaa53d370ef7353971be22fc85a1c593",
       "outputs": [
         "assets/mx/scenes/raid/perorozilla/Lightmap-0_comp_light.png",
         "assets/mx/scenes/raid/perorozilla/Lightmap-0_comp_light_001.png",
@@ -13246,7 +13246,7 @@
     "FullPatch_089.zip": {
       "name": "FullPatch_089.zip",
       "size": 52315305,
-      "sha256": "8f07cfe5ddc83af32451d392e00cb56791f13beb178dcb2129550d39df70b2df",
+      "sha256": "21a080e2dab69b1e48a6fb0340753c0f4821fccdb9ad712cd3069bce12699704",
       "outputs": [
         "assets/mx/scenes/skillcut/ch0222/Lightmap-0_comp_light.png",
         "assets/mx/scenes/skillcut/ch0222/Lightmap-0_comp_light_001.png",
@@ -13381,7 +13381,7 @@
     "FullPatch_090.zip": {
       "name": "FullPatch_090.zip",
       "size": 51863250,
-      "sha256": "2c75cd152df0098c4919b4f86d10b7f609c3006a73b97f1cf2ccb2c460f72a1e",
+      "sha256": "e255464eb6f2d821efa725315a620a31742edb9b635eb850e56598cdc11e72cc",
       "outputs": [
         "assets/mx/scenes/mxcommon/Common_Fog_03.png",
         "assets/mx/scenes/mxcommon/Common_light_01.png",
@@ -13512,7 +13512,7 @@
     "FullPatch_091.zip": {
       "name": "FullPatch_091.zip",
       "size": 52158250,
-      "sha256": "d58d3a1a7d70ee057924b7e18b28a8f2b1a2216d2fafb388f7553f929223201a",
+      "sha256": "eb5fb8f8d0f4d73a57800de0ae83be0b438de6fc94f6332580729b2b895dd94a",
       "outputs": [
         "assets/mx/spinebackground/arona_workpage_nighttime_02/arona_workpage_nighttime_2.png",
         "assets/mx/spinebackground/arona_workpage_nighttime_02/arona_workpage_nighttime_2_2.png",
@@ -13568,7 +13568,7 @@
     "FullPatch_092.zip": {
       "name": "FullPatch_092.zip",
       "size": 52236216,
-      "sha256": "ea9cb480998c75dd88d2d1311c0ee5c2edc832c9e7b6dc70241b07a5c0386d40",
+      "sha256": "c60be9dd73846fc06a66fbf5cc0df1454af9c55b4456b45fbe23246bf59e3eca",
       "outputs": [
         "assets/mx/spinebackground/spinebg/SC200004_02.png",
         "assets/mx/spinebackground/spinebg/SC200004_02_2.png",
@@ -13662,7 +13662,7 @@
     "FullPatch_093.zip": {
       "name": "FullPatch_093.zip",
       "size": 52257330,
-      "sha256": "4fd5342c2fb339d9330c17e9199861d512c77ca02f5385b7efe3efbab4e512eb",
+      "sha256": "0daf5576eccca65743f715827dea4fd224714ca70be6d447b00965aed2f95827",
       "outputs": [
         "assets/mx/spinecharacters/ch0145_spr/CH0145_spr.png",
         "assets/mx/spinecharacters/ch0152_spr/CH0152_spr.png",
@@ -13771,7 +13771,7 @@
     "FullPatch_094.zip": {
       "name": "FullPatch_094.zip",
       "size": 52198565,
-      "sha256": "c1c031cc98a554c64e9e8305ff53d386a6eefe9d853d768619bac1fcc5b0cd41",
+      "sha256": "ba2a7381ba71c8a7d269c0cc1d23559f595c01c738d912752c05285cb5c0e15f",
       "outputs": [
         "assets/mx/spinecharacters/ch0260_spr/CH0260_spr.png",
         "assets/mx/spinecharacters/ch0261_spr/CH0261_spr.png",
@@ -13883,7 +13883,7 @@
     "FullPatch_095.zip": {
       "name": "FullPatch_095.zip",
       "size": 52334171,
-      "sha256": "fa7f2584ec583482be7a75d81a7bc1518e4367769c913644546c90e52e1b53a6",
+      "sha256": "84eb90846db6beef55ecdbaf133e0abe14cae541674531ff2f777380fb051980",
       "outputs": [
         "assets/mx/spinecharacters/ch0383_spr/CH0383_spr.png",
         "assets/mx/spinecharacters/ch9996_spr/CH9996_spr.png",
@@ -14016,7 +14016,7 @@
     "FullPatch_096.zip": {
       "name": "FullPatch_096.zip",
       "size": 52319839,
-      "sha256": "7addc8c0d3d441ca07acce6485fd89a9912fa8fe7529e5dbabe6fd45208739bc",
+      "sha256": "68d3faeb6b9e8d5efa27e4d638a35440e58cb55b4d0597d1428c69ad53e2f1ce",
       "outputs": [
         "assets/mx/spinecharacters/np0049_spr/NP0049_spr.png",
         "assets/mx/spinecharacters/np0050_spr/NP0050_spr.png",
@@ -14154,7 +14154,7 @@
     "FullPatch_097.zip": {
       "name": "FullPatch_097.zip",
       "size": 52558470,
-      "sha256": "962c86cd9f76289a7ce51890fca74e9ae02ca689bb38814a93bd9af832bedc89",
+      "sha256": "1b641024470e7fc3639af7d7e4b151e1dfda98fe3ee1d58e764386ba7fef3abd",
       "outputs": [
         "assets/mx/spinecharacters/np0197_spr/NP0197_spr.png",
         "assets/mx/spinecharacters/np0198_spr/NP0198_spr.png",
@@ -14289,7 +14289,7 @@
     "FullPatch_098.zip": {
       "name": "FullPatch_098.zip",
       "size": 49763409,
-      "sha256": "16486c5f1affcbe8c064f68737b4a178100fcce6f85ca869d1fd02f69cb8c152",
+      "sha256": "4b5bf06972f59f2ac75f02a228f18bc52e4905c0ced4efdf1b275cf48c8d9ee1",
       "outputs": [
         "assets/mx/spinecharacters/tsurugi_spr/tsurugi_spr.png",
         "assets/mx/spinecharacters/utaha_spr/utaha_spr.png",
@@ -14342,7 +14342,7 @@
     "FullPatch_099.zip": {
       "name": "FullPatch_099.zip",
       "size": 50319743,
-      "sha256": "ece86a96c01847b555d2ac9a02f3bf8b9e50027b4d3ae19dedac4fc724bd220b",
+      "sha256": "ea6a90407ee08dc93f6b36661245c12c7327d2ccc465909f30315fd802b30c37",
       "outputs": [
         "assets/mx/spinelobbies/ch0063_home/CH0063_home.png",
         "assets/mx/spinelobbies/ch0063_home/CH0063_home2.png",
@@ -14392,7 +14392,7 @@
     "FullPatch_100.zip": {
       "name": "FullPatch_100.zip",
       "size": 51925185,
-      "sha256": "beb65fb5ba22c7eac8d8c12c6834065e52413d713e557dfdc651d7829ffbc258",
+      "sha256": "f0a52405a2fa5d4a69df78a138f9a919d11e23c06659c22fa1a157d272322ecd",
       "outputs": [
         "assets/mx/spinelobbies/ch0092_home/CH0092_home.png",
         "assets/mx/spinelobbies/ch0092_home/CH0092_home2.png",
@@ -14441,7 +14441,7 @@
     "FullPatch_101.zip": {
       "name": "FullPatch_101.zip",
       "size": 50454399,
-      "sha256": "717f13c8fddd2e5cb2b652618929bfa47f4cd02047796626bb8b10ab77364424",
+      "sha256": "f1d6d6b94d144e7fdc634f53902760ca9a7790d4f6a984d5cec2934ee86bf3a5",
       "outputs": [
         "assets/mx/spinelobbies/ch0139_home/CH0139_home.png",
         "assets/mx/spinelobbies/ch0139_home/CH0139_home2.png",
@@ -14488,7 +14488,7 @@
     "FullPatch_102.zip": {
       "name": "FullPatch_102.zip",
       "size": 51464622,
-      "sha256": "5d28c7cdb655d67736bd871a212b25792f9125763c68e6a06c201f5392b1966c",
+      "sha256": "6ca121cf614ca08bf0fdbb8bacddfbaf8f2b901e3469e02932b6dd4d116c68d6",
       "outputs": [
         "assets/mx/spinelobbies/ch0167_home/CH0167_home.png",
         "assets/mx/spinelobbies/ch0167_home/CH0167_home2.png",
@@ -14528,7 +14528,7 @@
     "FullPatch_103.zip": {
       "name": "FullPatch_103.zip",
       "size": 50367270,
-      "sha256": "4d82dca13ee66130a31ffe4e17d37820ec71231c38288adf0a9f2e5965da9273",
+      "sha256": "f1f85ec49d025128b04197309e70563078393f6c1d313ea50fde0a0513d5bfe9",
       "outputs": [
         "assets/mx/spinelobbies/ch0183_home/CH0183_home.png",
         "assets/mx/spinelobbies/ch0183_home/CH0183_home2.png",
@@ -14577,7 +14577,7 @@
     "FullPatch_104.zip": {
       "name": "FullPatch_104.zip",
       "size": 52030712,
-      "sha256": "cd06552997046213fc8571bf9c26c0ff6e787beed303bd9fa11570d987b91b87",
+      "sha256": "f346c37db9e7de7c981ab4ab6279e23a75934e227b03d9a1aaaed21cbcdc4e45",
       "outputs": [
         "assets/mx/spinelobbies/ch0197_home/CH0197_home.png",
         "assets/mx/spinelobbies/ch0197_home/CH0197_home_2.png",
@@ -14633,7 +14633,7 @@
     "FullPatch_105.zip": {
       "name": "FullPatch_105.zip",
       "size": 52426554,
-      "sha256": "5895910ea0eba83b973dd95ed79c79492e01dba7e25878518a538967a6e55945",
+      "sha256": "fee25b8b14e2dc1a94fa6e68a8eb7a00100b83450284fbf17e722c2727529fc1",
       "outputs": [
         "assets/mx/spinelobbies/ch0218_home/CH0218_home.png",
         "assets/mx/spinelobbies/ch0218_home/CH0218_home2.png",
@@ -14685,7 +14685,7 @@
     "FullPatch_106.zip": {
       "name": "FullPatch_106.zip",
       "size": 49239953,
-      "sha256": "1e8cb138907c8baf82d1ae88f5ae43ca824ce09b54b892825a7170428fb09f85",
+      "sha256": "94e9de754443f18680585a915f19f6cc3a030beac87b145000ce4492ef13f878",
       "outputs": [
         "assets/mx/spinelobbies/ch0240_home/CH0240_home.png",
         "assets/mx/spinelobbies/ch0240_home/CH0240_home2.png",
@@ -14732,7 +14732,7 @@
     "FullPatch_107.zip": {
       "name": "FullPatch_107.zip",
       "size": 51259940,
-      "sha256": "99f93848d348910d4fe0ef3247c05d844f2ff6e0ea6d06ca43b1d5a96538a03e",
+      "sha256": "7f5b66b87923183546d187da110009d42916aa24c5d8a200c54ba31ff4b769fc",
       "outputs": [
         "assets/mx/spinelobbies/ch0261_home/CH0261_home.png",
         "assets/mx/spinelobbies/ch0261_home/CH0261_home2.png",
@@ -14777,7 +14777,7 @@
     "FullPatch_108.zip": {
       "name": "FullPatch_108.zip",
       "size": 51245888,
-      "sha256": "d3de07cd7688de21f0ac18718ea3bdeab6e38bd3d7d10a82bf2d7b7a27af505f",
+      "sha256": "09e7d29eead49e0cdb8fddf4d23fdc4da9347de35f558ebab17bd42e8e76d709",
       "outputs": [
         "assets/mx/spinelobbies/ch0281_home/CH0281_home.png",
         "assets/mx/spinelobbies/ch0281_home/CH0281_home_2.png",
@@ -14829,7 +14829,7 @@
     "FullPatch_109.zip": {
       "name": "FullPatch_109.zip",
       "size": 50059291,
-      "sha256": "154293b4c8f5a799a1ad86eb4f03249c204cd2c6dc3beef143dbdbba62cb4914",
+      "sha256": "e12d02ee30d659081adea25e13da970d4969cf3f726b42f79d08f3dcdf2824dd",
       "outputs": [
         "assets/mx/spinelobbies/ch0301_home/CH0301_home.png",
         "assets/mx/spinelobbies/ch0301_home/CH0301_home_2.png",
@@ -14878,7 +14878,7 @@
     "FullPatch_110.zip": {
       "name": "FullPatch_110.zip",
       "size": 51400515,
-      "sha256": "6468183f3228f48881f1723f04f97c0805e9196cdd9db3887b82367188f35793",
+      "sha256": "4a0306dda05fd28cd272faf96d7e9ba4a7b6e6cd4bf1a39832b1447100553c17",
       "outputs": [
         "assets/mx/spinelobbies/ch0321_home/CH0321_home.png",
         "assets/mx/spinelobbies/ch0321_home/CH0321_home_2.png",
@@ -14928,7 +14928,7 @@
     "FullPatch_111.zip": {
       "name": "FullPatch_111.zip",
       "size": 49142706,
-      "sha256": "aba4157d360d86d2c48bbd8eabf4773ef89b15e2441c3de106dc4a19b3a2b0fd",
+      "sha256": "506e1a3ee2d9ba906b1f676d26d1ee1b46c66bbd12e3b65b093fc33cb3ee434e",
       "outputs": [
         "assets/mx/spinelobbies/ch0346_home/CH0346_home.png",
         "assets/mx/spinelobbies/ch0346_home/CH0346_home_2.png",
@@ -14975,7 +14975,7 @@
     "FullPatch_112.zip": {
       "name": "FullPatch_112.zip",
       "size": 49937524,
-      "sha256": "99e48d166226b426e44e6127e86b9cff01f3d2b9fa50e86fce20da9f7d468eb2",
+      "sha256": "28c14c5f38255c6fb387de27e442228339648ffdcd2f835cd259e251d55baa31",
       "outputs": [
         "assets/mx/spinelobbies/ch9999_home/CH9999_home.png",
         "assets/mx/spinelobbies/ch9999_home/CH9999_home2.png",
@@ -15023,7 +15023,7 @@
     "FullPatch_113.zip": {
       "name": "FullPatch_113.zip",
       "size": 51934457,
-      "sha256": "b6a4ba798337c5a871ca6a004083e7fb2bc172e9c48c953da1a26c6523b646e1",
+      "sha256": "617a231ba1accb599ae5212322342a151396e6cc6022aa5c130f8d988b5ab54a",
       "outputs": [
         "assets/mx/spinelobbies/hiyori_home/Hiyori_home.png",
         "assets/mx/spinelobbies/hiyori_home/Hiyori_home2.png",
@@ -15071,7 +15071,7 @@
     "FullPatch_114.zip": {
       "name": "FullPatch_114.zip",
       "size": 49898070,
-      "sha256": "17aa2f747f5fd99514d12e54257b1f1b6fb8f6bffcaad23403f41c76f930a940",
+      "sha256": "e0e6df98e3b34905a96313b285bab914c7867060105cc2bf153c1c8bf0f3a946",
       "outputs": [
         "assets/mx/spinelobbies/lobbyhoshino_multi/LobbyHoshino_multi.png",
         "assets/mx/spinelobbies/lobbyhoshino_multi/LobbyHoshino_multi2.png",
@@ -15120,7 +15120,7 @@
     "FullPatch_115.zip": {
       "name": "FullPatch_115.zip",
       "size": 51347987,
-      "sha256": "5fd9bb15d455678c54a2754cd8e3ed755215ffe18d0379fab2b587bbc9fac7bf",
+      "sha256": "2d5377206e0ad38111355956f8a15525d92f647a5b9b48adabb6d3a15cd20973",
       "outputs": [
         "assets/mx/spinelobbies/nagisa_home/Nagisa_home.png",
         "assets/mx/spinelobbies/nagisa_home/Nagisa_home2.png",
@@ -15165,7 +15165,7 @@
     "FullPatch_116.zip": {
       "name": "FullPatch_116.zip",
       "size": 52376859,
-      "sha256": "6074c817c7cc57c90cda37c8c3bc492b6f89dd88e0adfc78aa86147061f6fc86",
+      "sha256": "49dc3239d905b436e492dd88317e783ca66b9062da7dc2a91aae4c7fc130d57f",
       "outputs": [
         "assets/mx/spinelobbies/mxcommon/0.png",
         "assets/mx/spinelobbies/mxcommon/Ex_fx_02.png",
@@ -15365,7 +15365,7 @@
     "FullPatch_117.zip": {
       "name": "FullPatch_117.zip",
       "size": 51420942,
-      "sha256": "78a1c41c9c7a7c10fb848f26bccd7a4a17c56ea592f0170d4123e79903243f23",
+      "sha256": "707d90675a9adbf42f166d6537943c2d53425e70ff9aa993d5760e56674c5218",
       "outputs": [
         "assets/mx/undercover/artlevel/Lightmap-0_comp_dir.png",
         "assets/mx/undercover/artlevel/Lightmap-0_comp_dir_001.png",
@@ -15530,7 +15530,7 @@
     "FullPatch_118.zip": {
       "name": "FullPatch_118.zip",
       "size": 51287030,
-      "sha256": "ac2229eab3a6e430b50aba6895b91387b44d7fb4fdd5bcb6252ea0a9709c96d9",
+      "sha256": "2ce550769199423f1d6f5e7777a104e6574edf0ab5efa40e79db0877db582811",
       "outputs": [
         "assets/mx/undercover/characters/Aris_Original_Body.png",
         "assets/mx/undercover/characters/Aris_Original_Body_Mask.png",
@@ -15637,55 +15637,55 @@
     "FullPatch_119.zip": {
       "name": "FullPatch_119.zip",
       "size": 52301656,
-      "sha256": "e271418ae1d7644a2467687f43317a77daebd974b8fbe46cd5223b080f38e1df",
+      "sha256": "4e280717c4fb048324b0ff1757479b768507632758bab7413f3e199ea890c205",
       "outputs": []
     },
     "FullPatch_120.zip": {
       "name": "FullPatch_120.zip",
       "size": 49334264,
-      "sha256": "86780ad5fb47154998dbc6f355104837f5b086dba92a0e032b039577fa9cfd75",
+      "sha256": "81fa661d0ded9d168fb7be37443d290dd18c9f646e932e8ab56cb999406e88c3",
       "outputs": []
     },
     "FullPatch_121.zip": {
       "name": "FullPatch_121.zip",
       "size": 51812933,
-      "sha256": "d7acd372ece6cd7883d5b724ddbaac29de30682b28aaba069cd0626b0f9f8b28",
+      "sha256": "1cdef7abcd2afee7b9dc29b4eccaec518e6e768240f88ceeb3b32caca62a38f6",
       "outputs": []
     },
     "FullPatch_122.zip": {
       "name": "FullPatch_122.zip",
       "size": 51051484,
-      "sha256": "63a5ba7be13132a4d5dad18d71ccdd298f6c1abc352084c9caef8ba24da9b069",
+      "sha256": "822743a9fd2683f2648ee3d6459cd8ff107e07248bb503ae7c17d35046a83f84",
       "outputs": []
     },
     "FullPatch_123.zip": {
       "name": "FullPatch_123.zip",
       "size": 49886091,
-      "sha256": "fa24ab798653ae74f7652bf8cc5abbc452d67f5c2538a3becc951c6e649e75f6",
+      "sha256": "ff0d456dde5ac45a7596ee908c3efaa8286742e4754ee447719bd3fc06ad338c",
       "outputs": []
     },
     "FullPatch_124.zip": {
       "name": "FullPatch_124.zip",
       "size": 50284217,
-      "sha256": "79184c1fa554910795cb2bb7b13eedfd4621aa63704f859e17310df2300e093f",
+      "sha256": "13a458e7c16d294a7f38ee5f8c916b2206854fba96fef179e2260d22e97db2ea",
       "outputs": []
     },
     "FullPatch_125.zip": {
       "name": "FullPatch_125.zip",
       "size": 51679468,
-      "sha256": "5610aef7f7f9357592d63086a9a4c46c316afe4bdc7325836cdeb6d040951a78",
+      "sha256": "0df9ea7a33444da744536e116fa23416d6ed6ac969ee4ae7dded5033d5094ea3",
       "outputs": []
     },
     "FullPatch_126.zip": {
       "name": "FullPatch_126.zip",
       "size": 52531099,
-      "sha256": "595278a476bb7abd20131519d91c5e1781d1942dd2db8b611b122e11392e162d",
+      "sha256": "5f5a0fc797d5d5443a01099e41e256a65d997d1a07061e0308825bdd62a8bf18",
       "outputs": []
     },
     "FullPatch_127.zip": {
       "name": "FullPatch_127.zip",
       "size": 52713375,
-      "sha256": "3b83306f503f62f67d2e0da369bfb6f84a37cc7a1787cabb43771d07d4eeaebf",
+      "sha256": "ea3a63f628a87cb18779dd3563c0098e8f94535fbf1090bb29707ab31f0e4ff4",
       "outputs": [
         "campaign/background/hexa_back_01.png",
         "campaign/background/hexa_back_03.png"
@@ -15694,13 +15694,13 @@
     "FullPatch_128.zip": {
       "name": "FullPatch_128.zip",
       "size": 52774402,
-      "sha256": "fd44ff82fb2d36ba0e426379d905c57dedf6e5661c42b49fc6710194cac58d96",
+      "sha256": "e93ec986648737b2e0c589571320c5e28aa6ee0ad8a9835d5f32a07e0c192abe",
       "outputs": []
     },
     "FullPatch_129.zip": {
       "name": "FullPatch_129.zip",
       "size": 52751053,
-      "sha256": "9e08ee0dd0ccd62b7f0eb6f9248fcfdb22ad59d8874d0123fcd330b7cba51b86",
+      "sha256": "dd49c9227670642883c949475e1cbea239d146f6b3980a003bfa4dd36c19f502",
       "outputs": [
         "ui/charactergrowthfx/FX_TEX_Bulletline_10_Clamp.png",
         "ui/charactergrowthfx/FX_TEX_Img_StarIcon_01.png",
@@ -15740,13 +15740,13 @@
     "FullPatch_130.zip": {
       "name": "FullPatch_130.zip",
       "size": 51131128,
-      "sha256": "d45deb94a1363f8a8699d341b084e5d26ce4464a2782c86f4d257c4f9dc706d4",
+      "sha256": "e07265d751ba8f9365d09f05122f1137ee29b152d71aba3c52e7fe11900b6fab",
       "outputs": []
     },
     "FullPatch_131.zip": {
       "name": "FullPatch_131.zip",
       "size": 51953708,
-      "sha256": "bbdf05477adf25e2b658629ea47cbdea005f054cc725ea7d98c4e595fa9a5c00",
+      "sha256": "ceef7929bb78b3729fcbf1f94c68d6d9df8061310b1529ad3da040c26c3fec3c",
       "outputs": [
         "field/fx/tex/FX_TEX_Fade_Circle.png",
         "minigame/card/image/cards/Card_Default_Icon_Equipment.png",
@@ -15899,7 +15899,7 @@
     "FullPatch_132.zip": {
       "name": "FullPatch_132.zip",
       "size": 52644673,
-      "sha256": "424953e38200bd30ed35540b1d34c7ee18006c54199a11b50d91cd50bd5be32e",
+      "sha256": "556e7086ad88fa2a780188d6cd8ca58850171a9d8d6be41b33e8640644540181",
       "outputs": [
         "minigame/dicerace/BG_818.png"
       ]
@@ -15907,37 +15907,37 @@
     "FullPatch_133.zip": {
       "name": "FullPatch_133.zip",
       "size": 4402688,
-      "sha256": "63707b5bcce6532a2f05206a9ec2c2ada96dc9ee293116d59221a50488ab8dfb",
+      "sha256": "c41e58b2fb161b6bc04cc878982d168b08d136cf89133073cdca9b229fb77b26",
       "outputs": []
     },
     "FullPatch_134.zip": {
       "name": "FullPatch_134.zip",
       "size": 68610819,
-      "sha256": "a7c403c2ebf077c908393ddb6c3f95ff0d77b1168fa5b6de327ea2842c117a91",
+      "sha256": "83312556a1778e7cf4551cc3727218a091fea89654499eb46786dec003c064ee",
       "outputs": []
     },
     "FullPatch_135.zip": {
       "name": "FullPatch_135.zip",
       "size": 52478575,
-      "sha256": "86cfa2576a081bfa28d1866fa32870480bcfe6025f0f115f3e02c62f62eca627",
+      "sha256": "c36e3ac8b3394ed1b36421c6c4ed9d2a20d080f620827fa18873ddc1d904f978",
       "outputs": []
     },
     "FullPatch_136.zip": {
       "name": "FullPatch_136.zip",
-      "size": 52480586,
-      "sha256": "1d1eabcc19e6b448ec384dba63b8c79b884064a1d45d4a2a0a93f8b52dd4b3c7",
+      "size": 52480596,
+      "sha256": "8506b0f78b26f60c9860c80aa3133c7e996cac4013a33d66738a34f955dd61f0",
       "outputs": []
     },
     "FullPatch_137.zip": {
       "name": "FullPatch_137.zip",
       "size": 52198689,
-      "sha256": "cfe77078cfd2579c8f85c18e98c78e84e651d785bb65aeddb2dbd1ff7b353ed1",
+      "sha256": "ac64e4d9c73c7d6240b3f8fc1b2dcc4319eca9ee346861e0729c11b34e9892cb",
       "outputs": []
     },
     "FullPatch_138.zip": {
       "name": "FullPatch_138.zip",
       "size": 52500237,
-      "sha256": "902496de5a9edfa169cee9aa710f431ba48a17833c97dd47acd309699c3c54e3",
+      "sha256": "8f7dfee22e588ad7ef221849ef7d94eabdec23e6c26518120b1f5416813bf1be",
       "outputs": [
         "ui/ninepatch_basic.png"
       ]
@@ -15945,7 +15945,7 @@
     "FullPatch_139.zip": {
       "name": "FullPatch_139.zip",
       "size": 52315902,
-      "sha256": "76ea4247651b9c014a48c772f7aac423125d20657b9da33cf6727b2f2e86f657",
+      "sha256": "c6104c8b26767fca56d9352761b6624453ec18bb4090cbde22ed438eedb1f193",
       "outputs": [
         "ui/ys_bg_corner_none.png",
         "uis/00_images/adaptation/Adaptation_Bg_1.png",
@@ -16209,7 +16209,7 @@
     "FullPatch_140.zip": {
       "name": "FullPatch_140.zip",
       "size": 50308582,
-      "sha256": "d88c4c66dad247850d9ebfbb34dc9fc1801a9d67fc2ea1bdf47ca10aad9a2498",
+      "sha256": "2f567850108f8395e87b2ba23b1ba8482d5e5a9204c9f0fa2fec8292333bb1f3",
       "outputs": [
         "uis/00_images/banner/CharacterAdaptation_Enter_S01_Jp.png",
         "uis/00_images/banner/CharacterAdaptation_Enter_S01_Kr.png",
@@ -16662,7 +16662,7 @@
     "FullPatch_141.zip": {
       "name": "FullPatch_141.zip",
       "size": 42420379,
-      "sha256": "ed7ba4136fb882fe38c7faa16ab0a79db3915d05f7c6dd5b6b93b0e39cb7cd9e",
+      "sha256": "83299dbfc37fe5f4e2f5603a8f5bf748bbbd93269e1ce78aa3a7324d673801d0",
       "outputs": [
         "uis/00_images/Academy_Complete_BG.png",
         "uis/00_images/Attendance_Bg_Pen.png",
@@ -18084,7 +18084,7 @@
     "FullPatch_142.zip": {
       "name": "FullPatch_142.zip",
       "size": 42308968,
-      "sha256": "db680129695b6abf68fa54ad8b38ba9245b6d02dc3df95549f06a626f4d250cf",
+      "sha256": "53d411a8f90f49cba8a75641308317208dec67dffd7433dde6dd72331423f175",
       "outputs": [
         "uis/01_common/03_nonequipment/Collectible_Icon_GuideMission01.png",
         "uis/01_common/03_nonequipment/Collectible_Icon_GuideMission_2nd.png",
@@ -20175,7 +20175,7 @@
     "FullPatch_143.zip": {
       "name": "FullPatch_143.zip",
       "size": 49062768,
-      "sha256": "a368bce76abbc053b3f21e9d73d2ed77b3f7324c36c63e30812b9ad9c8c5f1c5",
+      "sha256": "c3b260db25bb495b1fd3ddbe6ee5dcb1b4b98018d8c6c6428cf77aa2da8af5ed",
       "outputs": [
         "uis/01_common/14_charactercollect/BG_183LabRoom.png",
         "uis/01_common/14_charactercollect/BG_AbydosCouncilRoom3_Sunset_Collection.png",
@@ -20590,7 +20590,7 @@
     "FullPatch_144.zip": {
       "name": "FullPatch_144.zip",
       "size": 48695105,
-      "sha256": "e53db8fa17222222e9620562ce3fb167a0afce564c3bf043f38bec50a753cd24",
+      "sha256": "e9755f14f967d0e14ba984cc6e36db8de32af1494fefdf530d36fd449cd0b565",
       "outputs": [
         "uis/01_common/16_cafeitem/Abydosclassroombg.png",
         "uis/01_common/16_cafeitem/Ariussummerbg.png",
@@ -22510,8 +22510,8 @@
     },
     "FullPatch_145.zip": {
       "name": "FullPatch_145.zip",
-      "size": 41143300,
-      "sha256": "717c871f1f43c8f42432a1772a5f09b813ccb347796defc2a8e3244fdbe8ba88",
+      "size": 41368420,
+      "sha256": "bba04678b1e92f04245fbbdb2312d5229e919582da6de160ed83344c0206f722",
       "outputs": [
         "uis/01_common/23_tutorialfailure/TutorialFailureImage_MultiFloorRaid_EN0009_03_Jp.png",
         "uis/01_common/23_tutorialfailure/TutorialFailureImage_MultiFloorRaid_EN0009_03_Kr.png",
@@ -22759,8 +22759,10 @@
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0082_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0095_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0109_0.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0139_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0158_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0170_0.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0188_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0215_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0216_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0217_0.png",
@@ -22775,6 +22777,9 @@
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0295_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0304_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0306_0.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0317_0.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0318_0.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0319_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0320_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0321_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0328_0.png",
@@ -22786,6 +22791,7 @@
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0369_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0379_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0380_0.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_reizyo_0.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Weekly_0.png",
         "uis/01_common/26_shopcontent/ImageFont_Shop_Limited.png",
         "uis/01_common/26_shopcontent/ImgFont_Free.png",
@@ -22978,7 +22984,7 @@
     "FullPatch_146.zip": {
       "name": "FullPatch_146.zip",
       "size": 32114337,
-      "sha256": "74a4fcfcbd14dfa6c5f53b438f0c8e47621cfc453b1b1273a7ae29525d74586b",
+      "sha256": "a88f616d51f42ee8ed839bb4691973f76527818aa814ed3690ebd827f69b90d6",
       "outputs": [
         "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_10810_01.png",
         "uis/01_common/27_eventcontent/collectioncg/Event_Photo_CollectionCG_10810_02.png",
@@ -23489,7 +23495,7 @@
     "FullPatch_147.zip": {
       "name": "FullPatch_147.zip",
       "size": 70562571,
-      "sha256": "b2a86ec9037d3407dc319907c7f67d5948205614b344f4c29f46771fe0aace11",
+      "sha256": "cc8b6b315e78b88eded14bb08d2918487fcb2766ebfc216d3860396e2f985772",
       "outputs": [
         "uis/01_common/27_eventcontent/main_bgimage/Event_CgCollection_Stage_Bg_803.png",
         "uis/01_common/27_eventcontent/main_bgimage/Event_CgCollection_Stage_Bg_808.png",
@@ -23636,7 +23642,7 @@
     "FullPatch_148.zip": {
       "name": "FullPatch_148.zip",
       "size": 48506003,
-      "sha256": "47e39d612b4c644227ef6f6b41ae3eca823e492a91d4158f67924e7f4307b65b",
+      "sha256": "efbbc5357090f632ad53c368f1455d7af8c2ea0fa4d7698a74005036cad8e5c0",
       "outputs": [
         "uis/01_common/27_eventcontent/main_bgimage/Event_Main_BoxGacha_Bg_856.png",
         "uis/01_common/27_eventcontent/main_bgimage/Event_Main_CardShop_Bg_850.png",
@@ -23813,7 +23819,7 @@
     "FullPatch_149.zip": {
       "name": "FullPatch_149.zip",
       "size": 189422648,
-      "sha256": "0b45084fb1e17356136cc16963933e393039e4fa768275cc03541b12e254e980",
+      "sha256": "bcd542e1c12b2dca7db5c1f523bb5a0668279d74721c8fdb814c51bccc85d7af",
       "outputs": [
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_10801_1_Jp.png",
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_10801_1_Kr.png",
@@ -24500,7 +24506,7 @@
     "FullPatch_150.zip": {
       "name": "FullPatch_150.zip",
       "size": 49853246,
-      "sha256": "1b430fdd331458ceb1de721dceaf08bbf9f7ea63d2b3d9aa031cb5f1dcfdcb81",
+      "sha256": "25cf8e026ea338fd25a777edd1e73628e62367c4138530d58fa965833fa846b8",
       "outputs": [
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_10838_1_jp.png",
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_10838_1_kr.png",
@@ -24693,7 +24699,7 @@
     "FullPatch_151.zip": {
       "name": "FullPatch_151.zip",
       "size": 51700012,
-      "sha256": "5f9911bf59cc8dc6fed450e2d9d4dc7acd3249e5669ae062d9bc7b090ff0a6e5",
+      "sha256": "ff1600ce749b59fbdb537a392a76d4be7ca4ecbd31d0215912c0e0f52a74e8d7",
       "outputs": [
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_10847_1_Jp.png",
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_10847_1_Kr.png",
@@ -24933,7 +24939,7 @@
     "FullPatch_152.zip": {
       "name": "FullPatch_152.zip",
       "size": 3148611,
-      "sha256": "1b4c1b89d2c71d04900169a0bce70ecc9b0b232cb493e1165798e3131c7f5dfd",
+      "sha256": "60ed72aeb5f4dcb65fc7116113551d0b0ac3e405a3a2bc5ee2578cf846fc5bc4",
       "outputs": [
         "uis/01_common/27_eventcontent/treasure/847/Event_Treasure_847_01.png",
         "uis/01_common/27_eventcontent/treasure/847/Event_Treasure_847_01_Small.png",
@@ -25000,7 +25006,7 @@
     "FullPatch_153.zip": {
       "name": "FullPatch_153.zip",
       "size": 114775902,
-      "sha256": "6c8364be2ee2efc3a96123256fc2cb858e598fda49cabe34c9025b0db2e56c24",
+      "sha256": "1880038a609c07b038aaf9e925a16712ee20c686452c52dd1de789e2aa3868af",
       "outputs": [
         "uis/01_common/28_information/Information_AcademyMessanger_01_Jp.png",
         "uis/01_common/28_information/Information_AcademyMessanger_01_Kr.png",
@@ -25497,7 +25503,7 @@
     "FullPatch_154.zip": {
       "name": "FullPatch_154.zip",
       "size": 49248148,
-      "sha256": "4cd8e744dd01d56680551cf62885242090fb0a9eb5ba890c598b5448b90eaaa7",
+      "sha256": "6d86c6da8a0188784d53572f80879b551d0d536e922b658125ef252cabc0a918",
       "outputs": [
         "uis/01_common/28_information/Information_Arena_Season10_01_Jp.png",
         "uis/01_common/28_information/Information_Arena_Season10_01_Kr.png",
@@ -25644,7 +25650,7 @@
     "FullPatch_155.zip": {
       "name": "FullPatch_155.zip",
       "size": 50914467,
-      "sha256": "a75e2015ac8a5d241068157c6c4b64e2c823268e94bfdd817e670b22641cde1f",
+      "sha256": "f1e310cb477dadeeda6780136f80f0e5cc7281fc286fb916303afa78a4e82011",
       "outputs": [
         "uis/01_common/28_information/Information_Arena_Season12_01_Jp.png",
         "uis/01_common/28_information/Information_Arena_Season12_01_Kr.png",
@@ -26326,7 +26332,7 @@
     "FullPatch_156.zip": {
       "name": "FullPatch_156.zip",
       "size": 52028254,
-      "sha256": "830202f48c7b448128f4712fe8aa1a08c0518f7306b1094eca4cdad9c1eb215e",
+      "sha256": "86183f73440401607e7941495aab54c969b9183446636079990affc1b3aec6c6",
       "outputs": [
         "uis/01_common/34_minigame/dreammaker/Dreammaker_ImgFont_Failed.png",
         "uis/01_common/34_minigame/dreammaker/Dreammaker_ImgFont_Success.png",
@@ -27170,7 +27176,7 @@
     "FullPatch_157.zip": {
       "name": "FullPatch_157.zip",
       "size": 51744719,
-      "sha256": "0576c616b7acf9624ef8b5705530972c383195c11ebb85fec7e5bef398a74f35",
+      "sha256": "93a1174d1bac14b40cb32471127a90534ebb3148ffc86901b066948197ed9c3b",
       "outputs": [
         "uis/01_common/39_conquest/ConquestScheduleImage_815_1.png",
         "uis/01_common/39_conquest/ConquestScheduleImage_815_2.png",
@@ -28192,7 +28198,7 @@
     "FullPatch_158.zip": {
       "name": "FullPatch_158.zip",
       "size": 52402976,
-      "sha256": "21409a01bdc99ba86dd0d42c3abda26171355c4897aa4e28bec744a26eed9841",
+      "sha256": "289bbee7a3e66729d22dd3eea0cb5f7c070a531273a2018ff506658cd80f64e4",
       "outputs": [
         "uis/01_common/50_permanentraid/Bg_PermanentRaid_IntroScene.png",
         "uis/01_common/50_permanentraid/Bg_PermanentRaid_Normal.png",
@@ -29743,13 +29749,13 @@
     "FullPatch_159.zip": {
       "name": "FullPatch_159.zip",
       "size": 52324281,
-      "sha256": "d64fb09deee6ba26550a5d87bbb2aeb9fa728f8126282d44ee5ea7f9d5d46939",
+      "sha256": "abfb47cb486db7539ce709973ff33f3a695f150c00304f0dba9f5ce2c08659e9",
       "outputs": []
     },
     "FullPatch_160.zip": {
       "name": "FullPatch_160.zip",
-      "size": 47967888,
-      "sha256": "6066e2fd95a0aaae75e6f6496528d45d08b9cb56c3abb8a2bfb1d802e4d6b543",
+      "size": 48378914,
+      "sha256": "74f3de6809257a57f068f39abf4329faa04c0279433dd84e486efdf839ad4a27",
       "outputs": [
         "uis/03_scenario/03_emoticon/sprite/Emoji_Bulb_1.png",
         "uis/03_scenario/03_emoticon/sprite/Emoji_Bulb_2.png",
@@ -29846,6 +29852,7 @@
         "uis/03_scenario/05_mode/Mini_Chapter_15_1.png",
         "uis/03_scenario/05_mode/Mini_Chapter_16_1.png",
         "uis/03_scenario/05_mode/Mini_Chapter_17_1.png",
+        "uis/03_scenario/05_mode/Mini_Chapter_18_1.png",
         "uis/03_scenario/05_mode/Mini_Chapter_1_1.png",
         "uis/03_scenario/05_mode/Mini_Chapter_2_1.png",
         "uis/03_scenario/05_mode/Mini_Chapter_3_1.png",
@@ -29864,6 +29871,7 @@
         "uis/03_scenario/05_mode/Mini_Volume_15.png",
         "uis/03_scenario/05_mode/Mini_Volume_16.png",
         "uis/03_scenario/05_mode/Mini_Volume_17.png",
+        "uis/03_scenario/05_mode/Mini_Volume_18.png",
         "uis/03_scenario/05_mode/Mini_Volume_2.png",
         "uis/03_scenario/05_mode/Mini_Volume_3.png",
         "uis/03_scenario/05_mode/Mini_Volume_4.png",
@@ -29973,7 +29981,7 @@
     "FullPatch_161.zip": {
       "name": "FullPatch_161.zip",
       "size": 23384488,
-      "sha256": "3ae879d0c9beba2f8f38ee4a6c06600966415271e2abf07d4b194db5b4fae173",
+      "sha256": "50c4fa9c2b412a4f5732de854c441a1391a4c654e3622a10da8c5c14c6be50a2",
       "outputs": [
         "uis/03_scenario/06_event/Event_Image_701.png",
         "uis/03_scenario/06_event/Event_Image_801.png",
@@ -30041,7 +30049,7 @@
     "FullPatch_Prologue_000.zip": {
       "name": "FullPatch_Prologue_000.zip",
       "size": 51286103,
-      "sha256": "3338859fdfdb51b3e11e6e522437f358d6c67389ddfd3633a3f7e6b2c3c3d947",
+      "sha256": "938ce1199736eea417fe4a245be24111e749234236497d65490537561f82aca9",
       "outputs": [
         "MX_unitybuiltinshaders_181655154/Background.png",
         "MX_unitybuiltinshaders_181655154/Background_001.png",
@@ -30431,7 +30439,7 @@
     "FullPatch_Prologue_001.zip": {
       "name": "FullPatch_Prologue_001.zip",
       "size": 52425335,
-      "sha256": "dcecd4f65cd1bf7fa788c5e692d37b8a08ef299383ddb4fe17fe3f44aa4b696a",
+      "sha256": "e6e5b903e3bf4d8df3c893b93261a0785318a2e7af042bedc2317e712b65e095",
       "outputs": [
         "assets/mx/spinecharacters/wakamo_spr/wakamo_spr.png",
         "assets/mx/spinecharacters/yuuka_spr/yuuka_spr.png",
@@ -30452,7 +30460,7 @@
     "FullPatch_Prologue_002.zip": {
       "name": "FullPatch_Prologue_002.zip",
       "size": 14425282,
-      "sha256": "d340e2d6cce9c4e3cbf6dc2bf4518c56d7326749b984edad41c2756e322bdd45",
+      "sha256": "5f1fce51766f1898d2b0745523841e46aed97c8418371f04836e23547ae8162e",
       "outputs": [
         "uis/00_images/imagefont/Attend_Complete_Mark.png",
         "uis/00_images/imagefont/Campaign_Imgfont_Defeat.png",
@@ -30699,7 +30707,7 @@
     "UpdatePatch_v0_000.zip": {
       "name": "UpdatePatch_v0_000.zip",
       "size": 51753536,
-      "sha256": "7b250920e6a0e013ce5fcc50a4059c75fca949260543479f52ba1bbe93349eac",
+      "sha256": "f55df4499c64dd0f6969c9d4ed165eec8aa2c3f77535afa90434912eae50b3cd",
       "outputs": [
         "assets/mx/cafe/misc/my_event096_metalstage/FX_TEX_CH0252_Ligth_Color_001.png",
         "assets/mx/cafe/misc/my_event096_metalstage/FX_TEX_my_event096_metalstage_Stage_Light_Grad_001.png",
@@ -30811,7 +30819,7 @@
     "UpdatePatch_v0_001.zip": {
       "name": "UpdatePatch_v0_001.zip",
       "size": 45817808,
-      "sha256": "d7a171bc954e445f331fe4d7b6d054e8c679d0406df882fe16e7e06b4c02db2d",
+      "sha256": "832ab03ff08d58315d30ae8bc6e3f5893bb430664119197aa2fa944f23f8fb77",
       "outputs": [
         "assets/mx/characters/ch0209/CH0209_Body_001.png",
         "assets/mx/characters/ch0209/CH0209_Body_Mask_001.png",
@@ -30876,7 +30884,7 @@
     "UpdatePatch_v0_002.zip": {
       "name": "UpdatePatch_v0_002.zip",
       "size": 46220599,
-      "sha256": "74f4307db4ff84b24316f9f9b9961bd46e43c46512d222152ca2cd094f0e5257",
+      "sha256": "f8f59b0b7affafd5892dc2ddf178fb95caeb059bc104fe992d0cd29fe40b2825",
       "outputs": [
         "assets/mx/characters/ch0252/CH0252_Body01_001.png",
         "assets/mx/characters/ch0252/CH0252_Body01_Mask_001.png",
@@ -30924,7 +30932,7 @@
     "UpdatePatch_v0_003.zip": {
       "name": "UpdatePatch_v0_003.zip",
       "size": 43113590,
-      "sha256": "ed0ae2aac9c6a87e5f9f3d069be3b23bb89ad95d0fb4f5b4e0578a8b1d31d4cf",
+      "sha256": "ab37a1083e23c7a92eba65cc33242a6870528e362d4fcb4cdbb71e1c727126bd",
       "outputs": [
         "assets/mx/characters/ch0321/CH0321_Body_001.png",
         "assets/mx/characters/ch0321/CH0321_Body_Mask_001.png",
@@ -30966,7 +30974,7 @@
     "UpdatePatch_v0_004.zip": {
       "name": "UpdatePatch_v0_004.zip",
       "size": 51918401,
-      "sha256": "a21694fc7b19e15f61da6d6644f9b437687cb38f0561acf88ab8a6e659c0c8f3",
+      "sha256": "cd6b0e87f44a74cba41a5598f0088990c3e56c54cb144e79f03f5b700f882c6a",
       "outputs": [
         "assets/mx/characters/ch0322/CH0322_Body_001.png",
         "assets/mx/characters/ch0322/CH0322_Body_Mask_001.png",
@@ -31027,8 +31035,8 @@
     },
     "UpdatePatch_v0_005.zip": {
       "name": "UpdatePatch_v0_005.zip",
-      "size": 28056161,
-      "sha256": "4f09d0e56a073d84ad518266b522b852b07526986868ba553f87ea8111b0f5f7",
+      "size": 28036544,
+      "sha256": "e0e4bfbf02391802a625eaba1dcf8fbaaec0644efb35bb22acc5fcbe7953e32c",
       "outputs": [
         "assets/mx/characters/ch0355_01/black_001.png",
         "assets/mx/characters/ch0355_02/black_001.png",
@@ -31121,13 +31129,13 @@
     "UpdatePatch_v0_006.zip": {
       "name": "UpdatePatch_v0_006.zip",
       "size": 19367880,
-      "sha256": "5ac924b16ed1de1d8ba0f49bd396b0222ea0f5465a309471d70c0309a1edb1d4",
+      "sha256": "67f2e1259eebac8485a5745d215e0776c649281034f42dc84ded2b26f7a08965",
       "outputs": []
     },
     "UpdatePatch_v0_007.zip": {
       "name": "UpdatePatch_v0_007.zip",
       "size": 3983364,
-      "sha256": "7a439e0e487fe864a630fa305e41a267b6f635018557d486e3238145fe20217c",
+      "sha256": "610ea647209081ecca03d7f53812b4eb4b0663bcbe9910120cabdbcba156a92b",
       "outputs": [
         "assets/mx/npcs/ch0265_enemy/CH0265_Enemy_Body_001.png",
         "assets/mx/npcs/ch0265_enemy/CH0265_Enemy_Body_Mask_001.png",
@@ -31153,13 +31161,13 @@
     "UpdatePatch_v0_008.zip": {
       "name": "UpdatePatch_v0_008.zip",
       "size": 50996065,
-      "sha256": "61c0b027c16383eeb7beccad37ee1b100692683c73ed3b58706a24934a1b470f",
+      "sha256": "3e195e3a7a08ff545064de2274e97894ffba6d9abdb4120ea55f1af28bbb6f41",
       "outputs": []
     },
     "UpdatePatch_v0_009.zip": {
       "name": "UpdatePatch_v0_009.zip",
       "size": 30089858,
-      "sha256": "8d60bbb84e140ca0774cb3e07c1fe513134aeb3849309e65ee26cbf43b8f4934",
+      "sha256": "2fffd2f70027daa405dde98c1b70647caf0295bc53f8a3f315ff02c965b61497",
       "outputs": [
         "assets/mx/npcs/en0023_core/EN0023_Core_001.png",
         "assets/mx/npcs/en0023_core/EN0023_Core_Core_ProjFlipBook_001.png",
@@ -31215,7 +31223,7 @@
     "UpdatePatch_v0_010.zip": {
       "name": "UpdatePatch_v0_010.zip",
       "size": 31177781,
-      "sha256": "f9df86ab82d0287e1f434e72b0dd0e288638dcd9803c0822085b3b95788b0a01",
+      "sha256": "9feff485865626e543026f456c1c6c6bbbdf4255e9ba0b6232bb65b3bc317876",
       "outputs": [
         "assets/mx/npcs/en0023_monkey_b1/EN0023_Monkey_B_001.png",
         "assets/mx/npcs/en0023_monkey_b1/EN0023_Monkey_B_Mask_001.png",
@@ -31267,7 +31275,7 @@
     "UpdatePatch_v0_011.zip": {
       "name": "UpdatePatch_v0_011.zip",
       "size": 48656750,
-      "sha256": "0e3d6ae69d928f058ce13abd90ca4a64c77f27147e0f8b7b5ede3cca2a0d1fea",
+      "sha256": "8133032a03e2cc0085fb06388139e85f214921e59e9da9933bd522cfe71357e8",
       "outputs": [
         "assets/mx/spinelobbies/ch0379_home/CH0379_home_001.png",
         "assets/mx/spinelobbies/ch0379_home/CH0379_home_2_001.png",
@@ -31284,25 +31292,25 @@
     "UpdatePatch_v0_012.zip": {
       "name": "UpdatePatch_v0_012.zip",
       "size": 50199801,
-      "sha256": "643963f7293505b9501682d957c2e2ecbe5b90ac5fc054c2cf716bd08e7ada06",
+      "sha256": "753ac2a5ec0869a969abac4d3838d8fa2b77db8b9fe64e495e1b6d3ab2c6dce3",
       "outputs": []
     },
     "UpdatePatch_v0_013.zip": {
       "name": "UpdatePatch_v0_013.zip",
       "size": 25835700,
-      "sha256": "e1787e0248b6ed8e8085e57a5b2f5adaa9470dd775d28d290847021337107cab",
+      "sha256": "3d1d748d128738fe1e2cd2b7996996130a31f0bd86e8d5dd73eede8951c50596",
       "outputs": []
     },
     "UpdatePatch_v0_014.zip": {
       "name": "UpdatePatch_v0_014.zip",
       "size": 11647667,
-      "sha256": "567273cfea159e9ef0dfa2cba12b61e63474bd1ec9f39e126715d94fa851af29",
+      "sha256": "3f2c409dc89b7d4b0392b27ab57dd08f98139bfef5c877330ab2ae99b8b662ef",
       "outputs": []
     },
     "UpdatePatch_v0_015.zip": {
       "name": "UpdatePatch_v0_015.zip",
       "size": 27460925,
-      "sha256": "b66c2dca854add68b700fe337642cb2f493fb257139a32fc57dfc230414ce2da",
+      "sha256": "754931bd64c1d110d042a506f0600a3a51cd4d36a381c23a9f2ced976375c438",
       "outputs": [
         "uis/00_images/Common_Texture_GraBg3_001.png",
         "uis/00_images/GachaPopup_Img_Deco_001.png",
@@ -31621,7 +31629,7 @@
     "UpdatePatch_v0_Prologue_000.zip": {
       "name": "UpdatePatch_v0_Prologue_000.zip",
       "size": 1393797,
-      "sha256": "760d1b5ec4122779ae467d2e73a4fd03ac8e7465b205bdcfc838fac93e8ac254",
+      "sha256": "44a8160950dd09d9f420bd5c5a75d4fbab151b5ab53e1ee4fa0bdd3bcf46ff55",
       "outputs": [
         "assets/mx/characters/ch0195/FX_TEX_Flare_01b_001.png",
         "assets/mx/characters/ch0209/FX_TEX_Water_Drop_05_001.png",
@@ -31638,7 +31646,7 @@
     "UpdatePatch_v10_000.zip": {
       "name": "UpdatePatch_v10_000.zip",
       "size": 1577436,
-      "sha256": "2138594bb962894732ab87653bb03a74125b1318b0afa1815aef6ae8af40928f",
+      "sha256": "57fcfc1fdc0f4e32553cdeae39af296e0ff6ac36da28b8ebecc9c3174ea72604",
       "outputs": [
         "uis/00_images/adaptation/Adaptation_Bg_1_001.png",
         "uis/00_images/adaptation/Adaptation_Bg_2_001.png",
@@ -31661,13 +31669,13 @@
     "UpdatePatch_v10_Prologue_000.zip": {
       "name": "UpdatePatch_v10_Prologue_000.zip",
       "size": 130158,
-      "sha256": "1dfbf9b39518154afc35b0a20fa356deffc7997d8d0c2512fe17ce3779991bbc",
+      "sha256": "5e0ea3d17c1627f93d227df2b80aacf06467a772469884f0ae48f3a8f1b1b488",
       "outputs": []
     },
     "UpdatePatch_v11_000.zip": {
       "name": "UpdatePatch_v11_000.zip",
       "size": 51128103,
-      "sha256": "fc0164f94c2fb330f71fadb60daafa32acb683c5188f6f184fcca83074b4a34c",
+      "sha256": "04774d6ae727ec7b691079e5c016c57f71ae03714c3afb9fd5c240a7845f2b09",
       "outputs": [
         "assets/mx/scenes/battle/snowmountain/Lightmap-0_comp_light_004.png",
         "assets/mx/scenes/battle/snowmountain/Lightmap-0_comp_light_005.png",
@@ -31681,7 +31689,7 @@
     "UpdatePatch_v11_001.zip": {
       "name": "UpdatePatch_v11_001.zip",
       "size": 47921577,
-      "sha256": "29804a8d9bee4537ac35bc9b70455a49f3eed357014cee053da952eb5df0132c",
+      "sha256": "d996d314b30277da441ff8f106d7dc831c73f5ca026517512b12bb9a6d60a07e",
       "outputs": [
         "ui/ninepatch_basic_001.png"
       ]
@@ -31689,7 +31697,7 @@
     "UpdatePatch_v11_002.zip": {
       "name": "UpdatePatch_v11_002.zip",
       "size": 9558543,
-      "sha256": "a262a55d5f54ff893fe5a90063b97c16198dedd0ce30ea3a89b934a886dbb4ab",
+      "sha256": "4e25f2003478770b01d932b32c04cb627b944f693e07859c9b41c79d243c6538",
       "outputs": [
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_864_0_Jp_001.png",
         "uis/01_common/27_eventcontent/playguide/Event_PlayGuide_864_0_Kr_001.png",
@@ -31728,13 +31736,13 @@
     "UpdatePatch_v11_Prologue_000.zip": {
       "name": "UpdatePatch_v11_Prologue_000.zip",
       "size": 3473828,
-      "sha256": "290c726076e347fa767851676fb57f6574eb7fae4a35fbb64bbed604a44feb5a",
+      "sha256": "e81d3099d80676ade79f8793179d0d2e40e54f5cafe1daf62fc843a4291776e1",
       "outputs": []
     },
     "UpdatePatch_v13_000.zip": {
       "name": "UpdatePatch_v13_000.zip",
       "size": 6253790,
-      "sha256": "c5b446ce023aa1a6c105b476bbdccfecfda6d81d3803c26c0bc718701d0d5e36",
+      "sha256": "48d17617a8f0ef4f0a644749caa587551d857c5405d8009881ed6f6692212674",
       "outputs": [
         "uis/00_images/Img_SprRenderTarget_001.png",
         "uis/00_images/banner/CharacterAdaptation_Enter_S01_Jp_001.png",
@@ -31770,7 +31778,7 @@
     "UpdatePatch_v13_Prologue_000.zip": {
       "name": "UpdatePatch_v13_Prologue_000.zip",
       "size": 19626,
-      "sha256": "79d772433410d94e952174d7fd0dade1192e3aa479a1c7aa1c0314a20069f505",
+      "sha256": "c431ea894656566f11419f104483c63ffbd79aa8fbb000bf5d89a102773c4ddd",
       "outputs": [
         "uis/00_images/imagefont/ImgFont_Confirmation_Unowned_Jp_001.png",
         "uis/00_images/imagefont/ImgFont_Confirmation_Unowned_Kr_001.png",
@@ -31780,13 +31788,13 @@
     "UpdatePatch_v15_000.zip": {
       "name": "UpdatePatch_v15_000.zip",
       "size": 4677287,
-      "sha256": "d418db4759cd69c2e6b61d61653a02bdc03d25559ec87b1d48f31eb959fe1c58",
+      "sha256": "b006e196e62b0c19912fff0e0f22567d434b0a3368cab9e9ec5e01d96ac21aed",
       "outputs": []
     },
     "UpdatePatch_v16_000.zip": {
       "name": "UpdatePatch_v16_000.zip",
       "size": 1485411,
-      "sha256": "aac9d67c16c7a9ec1304496b1e94b25b4db096e655374f71a2c700f089d05120",
+      "sha256": "c21ca254196b43019760b0117027a2b0d28de85acb1eb39569e524eebbacd6de",
       "outputs": [
         "uis/01_common/26_shopcontent/Goods_Icon_Package_Equipment_CH0252_0_001.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Package_Equipment_CH0379_0_001.png",
@@ -31811,31 +31819,31 @@
     "UpdatePatch_v17_000.zip": {
       "name": "UpdatePatch_v17_000.zip",
       "size": 99348,
-      "sha256": "ad1d44c45410675b782751b35db7e987a0e2fa3c5eb178691d39058ba325fe33",
+      "sha256": "43e56f6542ce273ef8f728ef7d898b086c1938859184e915b46c05ab6943c82a",
       "outputs": []
     },
     "UpdatePatch_v18_000.zip": {
       "name": "UpdatePatch_v18_000.zip",
       "size": 4415002,
-      "sha256": "83a81581d71f50add27e2fdf98cd8256651d8e281a5902ff1677c6045fa2f156",
+      "sha256": "c4b60ec7d7df067b0b90ae6f4ea67e9ec6206f5b5d86ab54449d71d8c9e2027d",
       "outputs": []
     },
     "UpdatePatch_v1_000.zip": {
       "name": "UpdatePatch_v1_000.zip",
       "size": 22311167,
-      "sha256": "e72819071624fc4c2ffe3c41e5479e9791442ef1392ce1cef15280ec900a7ff2",
+      "sha256": "ed1dc831a58aa69c8f14e045880ec20aac80d1886a4869422ea619d8eb8e75a1",
       "outputs": []
     },
     "UpdatePatch_v20_000.zip": {
       "name": "UpdatePatch_v20_000.zip",
       "size": 716473,
-      "sha256": "5690c4a8af899d3c8615921693191ba8b4a1ce61986c337e2f36d94f1314f4e3",
+      "sha256": "9757815b0a7bd510ded8813c790998aded69a2e86f047a7771ed93d8a0a5360b",
       "outputs": []
     },
     "UpdatePatch_v21_000.zip": {
       "name": "UpdatePatch_v21_000.zip",
       "size": 7005800,
-      "sha256": "8a3b22689f2b587db3df8f91adf729a25d2cbe66625db125c02532cebd345fb2",
+      "sha256": "4bcc65e02b7c5793bd0bf832fde404d0a1382b52c17315002a1ef2ab69e71951",
       "outputs": [
         "uis/01_common/53_battleplayguide/Raid_PlayGuide_EN0023_01_Jp_001.png",
         "uis/01_common/53_battleplayguide/Raid_PlayGuide_EN0023_01_Kr_001.png",
@@ -31854,7 +31862,7 @@
     "UpdatePatch_v23_000.zip": {
       "name": "UpdatePatch_v23_000.zip",
       "size": 8171109,
-      "sha256": "c1d966ab9ee90b8164b645f1dabbf7db5069f70fa320ba11f95060806031fc43",
+      "sha256": "413fadce6dc147779ac0f287e8e2a843d23059a7338f85cee769a44d6914dafc",
       "outputs": [
         "assets/mx/spinecharacters/ch0380_spr/CH0380_spr_001.png",
         "uis/01_common/28_information/Information_TacticalRelay_01_Jp_001.png",
@@ -31884,25 +31892,25 @@
     "UpdatePatch_v23_Prologue_000.zip": {
       "name": "UpdatePatch_v23_Prologue_000.zip",
       "size": 44005,
-      "sha256": "e26cda0d5583734f6f5f12bcdecff660924da0c7f388567c73329e94e36183b1",
+      "sha256": "1d65fb8cc148173040299b3748f178f1d9a658ba70ce8d227a265425ec5f221b",
       "outputs": []
     },
     "UpdatePatch_v24_000.zip": {
       "name": "UpdatePatch_v24_000.zip",
       "size": 399763,
-      "sha256": "86f7bf739376ba0517bbdc7eacebe382256546e50b3da5c9ef815e9b54ad2c8d",
+      "sha256": "071ada76c82dd7f977b355417edefe3da6862ec8d9006fac657957afc9e28b2c",
       "outputs": []
     },
     "UpdatePatch_v25_000.zip": {
       "name": "UpdatePatch_v25_000.zip",
-      "size": 27554516,
-      "sha256": "3dbccbc797fe635a4a0a545d80a8ea0769ce23c18497ebb2b6595dd729183fa9",
+      "size": 160241,
+      "sha256": "03773ef405a946463d1f7d0e15203894a416e89cdf6d320d857bea6581e7a75e",
       "outputs": []
     },
     "UpdatePatch_v27_000.zip": {
       "name": "UpdatePatch_v27_000.zip",
       "size": 751686,
-      "sha256": "dda1f20ed33a4a5a93ff27a02a3522619407781ab1ebae21e3d1718b3da2d2df",
+      "sha256": "42f2365d9cba520773623f24178c0cb6510f34c00fdc8dffd2b512f995d4578e",
       "outputs": [
         "uis/01_common/28_information/Information_Formation_09_Jp_001.png",
         "uis/01_common/28_information/Information_Formation_09_Kr_001.png"
@@ -31911,13 +31919,13 @@
     "UpdatePatch_v28_000.zip": {
       "name": "UpdatePatch_v28_000.zip",
       "size": 24689,
-      "sha256": "07f511c0d02d9e3da84e34a4b14f6dbe111df86ef8dfae785757a0e653da1611",
+      "sha256": "d5581e06a08291878f60c14883470e7921116f42e2f3fd8ea630786fe26f787d",
       "outputs": []
     },
     "UpdatePatch_v2_000.zip": {
       "name": "UpdatePatch_v2_000.zip",
       "size": 287508,
-      "sha256": "1810b12d3c3b97a90a5e66185c66132b5e029619f1897924f9f0c40b68946d2c",
+      "sha256": "32fb4286f42d061d442e140364065223aad4c0aa69f30e677b2d0697a5019046",
       "outputs": [
         "uis/00_images/banner/Event_Banner_864_Jp_001.png",
         "uis/00_images/banner/Event_Banner_864_Kr_001.png",
@@ -31927,10 +31935,37 @@
         "uis/02_tactics/04_bufficon/Combat_Icon_Buff_Heal_001.png"
       ]
     },
+    "UpdatePatch_v30_000.zip": {
+      "name": "UpdatePatch_v30_000.zip",
+      "size": 1846404,
+      "sha256": "87188d7597a745c88cb41ee3467041b32bc3901bfe52c6d5aaad4355240108bf",
+      "outputs": [
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0139_0_001.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0188_0_001.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0317_0_001.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0318_0_001.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_CH0319_0_001.png",
+        "uis/01_common/26_shopcontent/Goods_Icon_Pakage_Pickup_reizyo_0_001.png",
+        "uis/03_scenario/05_mode/Mini_Chapter_18_1_001.png",
+        "uis/03_scenario/05_mode/Mini_Volume_18_001.png"
+      ]
+    },
+    "UpdatePatch_v34_000.zip": {
+      "name": "UpdatePatch_v34_000.zip",
+      "size": 27387424,
+      "sha256": "e04f77f74a7a2893c7b1aec7271583c21ce986915b4e282cf54ea045d5406280",
+      "outputs": []
+    },
+    "UpdatePatch_v37_000.zip": {
+      "name": "UpdatePatch_v37_000.zip",
+      "size": 12217,
+      "sha256": "55ad9d66cc141904e106a0be06f8b0ef2a9c05e9a0f556bc79d8451c86bb7b63",
+      "outputs": []
+    },
     "UpdatePatch_v3_000.zip": {
       "name": "UpdatePatch_v3_000.zip",
       "size": 1789718,
-      "sha256": "e48e64d90c58135d64e4a84182ba37db56a2b8d070f29ed621bd5b190216a7fe",
+      "sha256": "2371c90756a87cb1818599913e9b2fccc23665cd826179cdfdb1b23267e811e8",
       "outputs": [
         "assets/mx/etceffects/scenariofx/ui_fx_bg_binocular/FX_TEX_UI_Binoculars_In_001.png",
         "assets/mx/etceffects/scenariofx/ui_fx_bg_binocular/FX_TEX_UI_binoculars_001.png",
@@ -31945,8 +31980,8 @@
     },
     "UpdatePatch_v3_001.zip": {
       "name": "UpdatePatch_v3_001.zip",
-      "size": 8032440,
-      "sha256": "127a566bcd6abd8cd77340e7c5642a35ac2482c394c131fb25bd3f4cc69df819",
+      "size": 8027108,
+      "sha256": "bc5b28bec61ee13891d7186926d5249b26a56d9b3e84e721a9b80b198420ed24",
       "outputs": [
         "uis/01_common/23_tutorialfailure/TutorialFailureImage_Raid_EN0023_01_Jp_001.png",
         "uis/01_common/23_tutorialfailure/TutorialFailureImage_Raid_EN0023_01_Kr_001.png",
@@ -31963,7 +31998,7 @@
     "UpdatePatch_v3_002.zip": {
       "name": "UpdatePatch_v3_002.zip",
       "size": 4646702,
-      "sha256": "0eb2602c44bc9aaeae213f9d74461f125cabc9d6de42933e76e484a7c658187f",
+      "sha256": "4d21c65257ee63e82fbf0899c33256c89ef85f64d88ebec49a1718126ec79e3c",
       "outputs": [
         "uis/01_common/28_information/Information_Arena_Season12_01_Jp_001.png",
         "uis/01_common/28_information/Information_Arena_Season12_01_Kr_001.png",
@@ -31995,7 +32030,7 @@
     "UpdatePatch_v4_000.zip": {
       "name": "UpdatePatch_v4_000.zip",
       "size": 2568554,
-      "sha256": "1d08569c2f1c1610b4839ce15324998fb1fbc725edaab59dea81d3d73262a1c2",
+      "sha256": "1d67d3a1b90fe850bad5523e0de41fc49f92f8f32f3b007b643ddaa5f44b1400",
       "outputs": [
         "assets/mx/npcs/en0023_brakelever/EN0023_BrakeLever_001.png",
         "assets/mx/npcs/en0023_brakelever/EN0023_BrakeLever_Mask_001.png",
@@ -32006,19 +32041,19 @@
     "UpdatePatch_v5_000.zip": {
       "name": "UpdatePatch_v5_000.zip",
       "size": 20396926,
-      "sha256": "f4ad835abd56eba13bdd289d09a7ff341e0e0a1f87ebb6b35dff3887e197d358",
+      "sha256": "66932bc3ea9521119d0bdbd646a781d545f79f72e201ccffcd7af8dd35a60fab",
       "outputs": []
     },
     "UpdatePatch_v7_000.zip": {
       "name": "UpdatePatch_v7_000.zip",
       "size": 9919458,
-      "sha256": "69ad1e29056680268466644515127a20bc220906aadcbbfbaa45bf63ef8d3887",
+      "sha256": "bd3bcb2f466598992bf9098df166142ec3d0d0b21ce9d5bd28adba08e111158b",
       "outputs": []
     },
     "UpdatePatch_v7_001.zip": {
       "name": "UpdatePatch_v7_001.zip",
       "size": 646238,
-      "sha256": "d31c0e21cf5bf652c2c57d635eaffb0b0717743d06fdcdea142265c47c5c8652",
+      "sha256": "46e23e6c6c384de1ed1482072f3cf59663c4100cdcc9f1ed80011636d8c08081",
       "outputs": [
         "uis/01_common/03_nonequipment/Item_Icon_TacticalRelayCoin_01_001.png",
         "uis/01_common/28_information/Information_Raid_13_Jp_001.png",
@@ -32028,7 +32063,7 @@
     "UpdatePatch_v7_Prologue_000.zip": {
       "name": "UpdatePatch_v7_Prologue_000.zip",
       "size": 2076739,
-      "sha256": "51fa0276c3b7bd3abf82fcb22e7eb2229ec881780ee9d567c8a14dbd7c39edf8",
+      "sha256": "87a93dd13b25607d2dd6f8863734bf98e0f5f4fab440d85d3d8a9274462bd872",
       "outputs": [
         "uis/atlas/Combat_001.png",
         "uis/atlas/Common_001.png",
@@ -32039,7 +32074,7 @@
     "UpdatePatch_v8_000.zip": {
       "name": "UpdatePatch_v8_000.zip",
       "size": 21437190,
-      "sha256": "1c2c4fed557ebb3d78f68eb830972a19f6d4e8ade967d445f48401d2830112c0",
+      "sha256": "f961d80ae5191b01e2d5dc10cb1befea3cf39d4b3092a93dd4ef6755b581d26a",
       "outputs": [
         "assets/mx/minigame/tankracing/FX_TEX_Racing_Check_Pattern_01_001.png",
         "assets/mx/minigame/tankracing/FX_TEX_Racing_Cutin_Pattern_01_001.png",
@@ -32064,19 +32099,19 @@
     "UpdatePatch_v8_001.zip": {
       "name": "UpdatePatch_v8_001.zip",
       "size": 22414,
-      "sha256": "3e93779d0934ff04e40c5a671b0bd08d767f26a9b99302a431add3d0d5dc8519",
+      "sha256": "da8f99fe77032f07c703d5879fb9c2e0d2518873eb20204bd8e660e2c6ea92bc",
       "outputs": []
     },
     "UpdatePatch_v8_Prologue_000.zip": {
       "name": "UpdatePatch_v8_Prologue_000.zip",
       "size": 584576,
-      "sha256": "99bae6e1a08b97dfbbb1dc95f6eb94e45d3cda8132d858971ba6f7a428aeb9e7",
+      "sha256": "b4a41749a76a20e067f9d3cd5586f074d738f6bed1591a043c6cfbd35e60dc0f",
       "outputs": []
     },
     "UpdatePatch_v9_000.zip": {
       "name": "UpdatePatch_v9_000.zip",
       "size": 18150276,
-      "sha256": "9322c487d4a7b73c17ad1cb21ac58abd74813025469afd97fd0352faba4a90d4",
+      "sha256": "a7fb9998a431027293d0a4a4c08a9e8173835ce3e5d4213cb322f054b66d5b84",
       "outputs": [
         "assets/mx/minigame/tankracing/grid_001.png",
         "uis/01_common/26_shopcontent/Goods_Icon_Biweekly_0_001.png",
