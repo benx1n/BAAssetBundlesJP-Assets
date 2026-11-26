@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "runId": "gha-43090231940-1",
-  "createdUtc": "2026-11-11T20:19:28.4241937Z",
+  "runId": "gha-45869542001-1",
+  "createdUtc": "2026-11-26T18:27:17.6293089Z",
   "region": "japan",
   "platform": "android",
   "assetKind": "AssetBundles",
@@ -11,12 +11,14 @@
   },
   "source": {
     "downloadRoot": "D:/a/BAAssetBundlesJP/BAAssetBundlesJP/downloads/jp/android/cache",
-    "zipCount": 219,
-    "zipTotalBytes": 9257419646,
-    "fullPatchZipCount": 165,
-    "updatePatchZipCount": 54,
+    "zipCount": 198,
+    "zipTotalBytes": 8737365696,
+    "bundleCount": 0,
+    "bundleTotalBytes": 0,
+    "fullPatchZipCount": 179,
+    "updatePatchZipCount": 19,
     "firstFullPatch": 0.0,
-    "lastFullPatch": 161.0
+    "lastFullPatch": 188.0
   },
   "extraction": {
     "classes": [
@@ -25,27 +27,27 @@
     ],
     "pathMode": "classified",
     "rawFallbackMode": "never",
-    "reportPath": "_reports/gha-43090231940-1.assetbundle-extract-report.json",
+    "reportPath": "_reports/gha-45869542001-1.assetbundle-extract-report.json",
     "counts": {
-      "exported": 30713,
-      "skipped": 2207,
+      "exported": 30394,
+      "skipped": 2205,
       "failed": 4,
       "rawFallback": 0
     }
   },
   "output": {
     "root": "D:/a/_temp/BAAssetBundlesJP-Assets",
-    "resourceFileCount": 30713,
-    "resourceTotalBytes": 7921324582,
+    "resourceFileCount": 30394,
+    "resourceTotalBytes": 8309807540,
     "byExtension": {
-      ".png": 30713
+      ".png": 30394
     },
     "largeFiles": []
   },
   "tools": {
     "baad": {
       "path": "baad.exe",
-      "version": "baad 3.0.0"
+      "version": "baad 3.3.1"
     },
     "python": "python",
     "unitypyExtractor": "scripts/extract_unity_media.py"
